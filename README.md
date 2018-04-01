@@ -2,9 +2,7 @@
 
 PIITracker tracks Personally Identifiable Information (PII) throughtout the system. 
 PIITracker utelizes the taint engine in `PANDA` e.g. taint2 plugin. PIITracker is based off PANDA commit 
-5606090f575a25e4de83af4e3c6a7f6f70050bf7. All modified code should have a 
-comment with the text, PIITracker before it, along with the initials of the person
-who made the modification.
+5606090f575a25e4de83af4e3c6a7f6f70050bf7.
 
 ## Install
 
@@ -22,13 +20,13 @@ PIITracker monitors specific function/system calls to introduce taint, and then 
 This plugin can be found in the panda_plugins directory under the folder, PIITracker.
 
 
-## RUNNING PIITracker
+## Running PIITracker
 
 We can run PIITracker in two modes: 1. Real time 2. Record/Replay, but we only recommand using PIITracker in Record/Replay mode.
 
 ### Record/Replay
 
-In this mode, we first record PANDA traces and then replay that with the loaded plugin.
+In this mode, we first record PANDA traces and then replay that with PIITracker plugin loaded.
     
     2.1 Record
         2.1.1 Start VM:
@@ -55,7 +53,7 @@ PIITracker plugin provides two input arguments:
 
         $sudo ./i386-softmmu/qemu-system-i386 -replay record_name -m 4048 --monitor stdio -netdev user,id=net0 -device e1000,netdev=net0 -panda PIITracker:pname=pocess1.exe-pocess2.exe
 
-    filters out the result for processes with pname=pocess1.exe and pname=pocess2.exe.
+    filters out the results for processes with pname=pocess1.exe and pname=pocess2.exe.
 
 **2. taint_enable**
     
@@ -63,17 +61,17 @@ PIITracker plugin provides two input arguments:
 
         $sudo ./i386-softmmu/qemu-system-i386 -replay record_name -m 4048 --monitor stdio -netdev user,id=net0 -device e1000,netdev=net0 -panda PIITracker:pname=pocess.exe,taint_enable=true
         
-    enables taint engine and filters out the result for processes with pname=pocess.exe.
+    enables taint engine and filters out the result for pocess.exe.
 
 
 
 ## PIITracker Outputs
 
-PIITracker plugin generates three outputs under the following directory:
+PIITracker plugin generates two outputs under the following directory:
 
         PATH_TO_PIITracker_DIR/panda/qemu/
  
-These three outputs are as follows:
+These two outputs are as follows:
  
         1. PIITracker.log
            It used for debugging purposes.
