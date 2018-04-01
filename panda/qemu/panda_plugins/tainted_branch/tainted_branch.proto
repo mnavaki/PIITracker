@@ -1,0 +1,10 @@
+
+
+message TaintedBranch {
+    required CallStack call_stack = 1;
+    repeated TaintQuery taint_query = 2;
+}
+    
+optional TaintedBranch tainted_branch = 36;
+
+    

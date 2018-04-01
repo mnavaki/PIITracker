@@ -1,0 +1,289 @@
+/*
+ * ============================================================================
+ *
+ *       Filename:  func_trace.cpp
+ *
+ *    Description:  Simple function tracing plugin for panda
+ *
+ *        Version:  1.0
+ *       Compiler:  g++
+ *
+ *         Author:  Geoff Alexander <alexandg (at) cs.unm.edu>
+ *
+ * ============================================================================
+ */
+//#define __STDC_FORMAT_MACROS
+#include <iostream>
+#include <iomanip>
+#include <fstream>
+#include <sstream>
+#include <unordered_map>
+#include <vector>
+#include <queue>
+#include <string>
+#include <list>
+
+#include "llvm/IR/Function.h"
+#include "pwnda_funcs.h"
+
+extern "C" {
+#include "panda_plugin.h"
+#include "panda_common.h"
+#include "rr_log.h"
+#include "panda_plugin_plugin.h"
+#include "../callstack_instr/callstack_instr.h"
+//#include "../callstack_instr/callstack_instr_ext.h"
+}
+
+extern "C" {
+    bool init_plugin(void *);
+    void uninit_plugin(void *);
+    int before_block_exec(CPUState *, TranslationBlock *);
+}
+
+//std::ifstream in_file("msdn.csv");
+//ModuleLoader mod_ld;//(in_file);
+
+std::ofstream faros_log;
+ModuleLoader *mod_tag_loader;
+uint32_t old_pid = 0;
+
+/*
+void get_args(CPUState *env, target_ulong pc){
+
+    
+    std::shared_ptr<std::string> func_name = mod_ld.get_block_name(pc);
+    if(func_name){
+        
+        if (0 == strncmp((*func_name).c_str(), "GetAdaptersAddresses", 20)){
+            //faros_log << *func_name << "\n";
+            std::vector<target_ulong> args =  mod_ld.get_func_args_addr(env, (*func_name));
+            //faros_log << "size: " << args.size() << "\n";
+            int arg_no = 0;
+            for (std::vector<target_ulong>::iterator it = args.begin() ; it != args.end(); ++it){
+                arg_no++;
+                if(arg_no == 4){
+                    uint32_t ptr;
+                    panda_virtual_memory_rw(env, *it, (uint8_t *)&ptr, 4, false);
+                    faros_log << "\nptr: " << ptr;
+                    char phys_addr[8];
+                    //for(int i = 0; i < 20; i++){
+                        uint32_t phys_addr_size = 0;
+                        panda_virtual_memory_rw(env, ptr, (uint8_t *)phys_addr, 8, false);
+                       // faros_log << "\nvalue:" << phys_addr_size << "-> i:" << i;
+                    //}
+                    //faros_log << "\nphys addr: " << to_hex_str_buff(phys_addr, 8);
+                }
+                if(arg_no == 5){
+                    uint32_t ptr, value;
+                    panda_virtual_memory_rw(env, *it, (uint8_t *)&ptr, 4, false);
+                    faros_log << "\narg 5 ptr: " << ptr;
+                    panda_virtual_memory_rw(env, ptr, (uint8_t *)&value, 4, false);
+                    faros_log << "\narg 5: " << value;
+                }
+            }
+        }
+    }
+}
+*/
+
+char out[150000];
+
+std::string to_hex_str_buff(char *buf, uint32_t size) {
+    uint32_t i,j;
+    out[0] = '\0';
+
+    if(size >= 100000){
+        std::string str_null("");
+        return str_null;
+    }
+
+    for (i = 0,j = 0; i < size; i++, j++)
+        sprintf( out + j*2, "%02X", buf[i]);
+        
+    out[j*2] = '\0';
+
+    std::string str(out);    
+
+    return str;
+}
+
+std::list<target_ulong> addr;
+//5179376,5180016
+//target_ulong addr1 = 5180016;
+void on_func_ret(CPUState *env, target_ulong func) {
+    auto func_name = mod_tag_loader->get_block_name(func);
+    if(func_name){        
+        if (0 == strncmp((*func_name).c_str(), "GetAdaptersAddresses", 20)){
+             if(!addr.empty()){
+                 char arg[6]; 
+                 panda_virtual_memory_rw(env, addr.front() + 8 + 9*4, (uint8_t *)arg, 6, false);
+                 faros_log << "result:: " << to_hex_str_buff(arg,6) << "\n";
+                 addr.pop_front();
+             }
+        }
+    }
+}
+void on_func_call(CPUState *env, target_ulong func) {
+    if (!panda_in_kernel(env)) {
+        auto func_name = mod_tag_loader->get_block_name(func);
+       
+        // If we are at the starting BB of a known WinAPI call log the function name,
+        // its argument's addresses, and the total number of arguments
+        if (func_name != nullptr && func_name->length() > 0) {
+            faros_log << "Executing known block: "
+                << func_name->c_str()
+                << "(";
+                int i = 1;
+                // Get a vector of function call argument addresses on the stack
+                for (auto s : mod_tag_loader->get_func_args_addr(env, *func_name)) {
+                    if(i++ != 4)
+                       continue;
+                    if (0 == strncmp((*func_name).c_str(), "GetAdaptersAddresses", 20)){
+                         uint32_t arg = 0;
+                         panda_virtual_memory_rw(env, s, (uint8_t *)&arg, 4, false);
+                         addr.push_back(arg);
+                    }
+                    //uint32_t arg = 0;
+                    //panda_virtual_memory_rw(env, s, (uint8_t *)&arg, 4, false);
+                    //faros_log << arg << ", ";// to_hex_str_buff((char *)&arg, 4) << ", ";
+                    
+                }
+
+                // Get total number of function arguments
+                ///faros_log << ") [" << mod_tag_loader->get_num_func_args(*func_name) << "]"
+                   // << "\n";
+        }
+    
+        /*target_ulong asid = panda_current_asid(env);
+        if(!mod_ld.asid_loaded(asid)){
+            mod_ld.process_module(env);
+        }
+        get_args(env, func);*/
+       
+    }
+}
+/*
+void get_args(CPUState *env){
+
+    auto tag_pc = env->eip;
+    auto func_name = mod_tag_loader->get_block_name(tag_pc);
+   
+    // If we are at the starting BB of a know WinAPI call log the function name,
+    // it's argument's addresses, and the total number of arguments
+    if (func_name != nullptr && func_name->length() > 0) {
+        faros_log << "Executing known block: "
+            << func_name->c_str()
+            << "(";
+
+            // Get a vector of function call argument addresses on the stack
+            for (auto s : mod_tag_loader->get_func_args_addr(env, *func_name)) {
+                uint32_t arg = 0;
+                panda_virtual_memory_rw(env, s, (uint8_t *)&arg, 4, false);
+                faros_log << to_hex_str_buff((char *)&arg, 4) << ", ";
+                
+            }
+
+            // Get total number of function arguments
+            faros_log << ") [" << mod_tag_loader->get_num_func_args(*func_name) << "]"
+                << "\n";
+
+    }
+}*/
+
+int before_block_exec(CPUState *env, TranslationBlock *tb) {
+#if defined(TARGET_I386)
+    
+    // Skip the kernel because it prints a lot of extra stuff
+    if (panda_in_kernel(env)) {
+        old_pid = 4;
+        return 0;
+    }
+
+    // If we haven't seen this asid before load it's exports    
+    if (!mod_tag_loader->asid_loaded(panda_current_asid(env))) {
+        mod_tag_loader->process_module(env);
+    }
+
+    /*auto tag_pc = env->eip;
+    auto func_name = mod_tag_loader->get_block_name(tag_pc);
+   
+    // If we are at the starting BB of a known WinAPI call log the function name,
+    // its argument's addresses, and the total number of arguments
+    if (func_name != nullptr && func_name->length() > 0) {
+        faros_log << "Executing known block: "
+            << func_name->c_str()
+            << "(";
+
+            // Get a vector of function call argument addresses on the stack
+            for (auto s : mod_tag_loader->get_func_args_addr(env, *func_name)) {
+                uint32_t arg = 0;
+                panda_virtual_memory_rw(env, s, (uint8_t *)&arg, 4, false);
+                faros_log << arg << ", ";// to_hex_str_buff((char *)&arg, 4) << ", ";
+                
+            }
+
+            // Get total number of function arguments
+            faros_log << ") [" << mod_tag_loader->get_num_func_args(*func_name) << "]"
+                << "\n";
+    }*/
+#endif
+    return 0;
+}
+
+int after_block_exec(CPUState *env, TranslationBlock *tb, TranslationBlock *next_tb) {
+#if defined(TARGET_I386)
+    if (panda_in_kernel(env)) {
+        return 0;
+    }
+    //target_ulong pc = panda_current_pc(env);
+    //get_args(env);
+
+
+#endif
+    return 0;
+}
+
+
+
+bool init_plugin(void *self) {
+#if defined(TARGET_I386)
+    panda_require("callstack_instr");
+    PPP_REG_CB("callstack_instr", on_call, on_func_call);
+    PPP_REG_CB("callstack_instr", on_ret, on_func_ret);
+    
+    panda_cb pcb;
+    faros_log.open("faros.log", std::ios::out | std::ios::trunc);
+    
+    //std::ifstream in_file("/home/meisam/Desktop/msdn.csv");
+   // mod_ld = ModuleLoader(in_file);
+    // Load the csv of known API calls and init the loader class
+    std::ifstream win_api_file("/home/meisam/Desktop/msdn.csv");
+    mod_tag_loader = new ModuleLoader(win_api_file);
+    
+    // Read in csv file
+    //std::ifstream in_file("msdn.csv");
+    //ModuleLoader func_tracker(in_file);
+    
+    pcb.before_block_exec = before_block_exec;
+    panda_register_callback(self, PANDA_CB_BEFORE_BLOCK_EXEC, pcb);
+
+    pcb.after_block_exec = after_block_exec;
+    panda_register_callback(self, PANDA_CB_AFTER_BLOCK_EXEC, pcb);
+    
+    panda_disable_tb_chaining(); 
+    panda_enable_memcb();
+    panda_enable_precise_pc();
+    std::cout << "Function Trace Enabled" << std::endl;
+#endif
+    return true;
+}
+
+void uninit_plugin(void *self) {
+
+    panda_disable_precise_pc();
+    panda_disable_memcb();
+    panda_enable_tb_chaining();
+    faros_log.close();
+}
+

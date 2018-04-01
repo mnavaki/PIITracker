@@ -1,0 +1,5 @@
+adding /home/meisam/Desktop/faros-git-viber/faros/panda/qemu/i386-softmmu/panda_plugins/panda_func_trace.so to panda_plugin_files 0
+loading /home/meisam/Desktop/faros-git-viber/faros/panda/qemu/i386-softmmu/panda_plugins/panda_func_trace.so
+Function Trace Enabled
+Success
+qemu-system-i386: -panda func_trace: could not open disk image out: No such file or directory

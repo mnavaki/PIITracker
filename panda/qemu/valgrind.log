@@ -1,0 +1,118 @@
+==5278== Memcheck, a memory error detector
+==5278== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==5278== Using Valgrind-3.10.1 and LibVEX; rerun with -h for copyright info
+==5278== Command: ./i386-softmmu/qemu-system-i386 -hda /home/meisam/Desktop/win7.qcow -m 2048 --monitor stdio -netdev user,id=net0 -device e1000,netdev=net0 -panda faros -vnc :1
+==5278== 
+==5278== Warning: set address range perms: large range [0x3a048000, 0x78230000) (defined)
+==5278== Warning: set address range perms: large range [0x3a258000, 0x78230000) (defined)
+Success
+Success
+Success
+Success
+Could not allocate dynamic translator buffer
+adding /home/meisam/Desktop/faros-git/faros/panda/qemu/i386-softmmu/panda_plugins/panda_faros.so to panda_plugin_files 0
+loading /home/meisam/Desktop/faros-git/faros/panda/qemu/i386-softmmu/panda_plugins/panda_faros.so
+panda_require: syscalls2
+loading /home/meisam/Desktop/faros-git/faros/panda/qemu/i386-softmmu/panda_plugins/panda_syscalls2.so
+Initializing plugin syscalls2
+panda_require: win7x86intro
+loading /home/meisam/Desktop/faros-git/faros/panda/qemu/i386-softmmu/panda_plugins/panda_win7x86intro.so
+panda_require: osi
+loading /home/meisam/Desktop/faros-git/faros/panda/qemu/i386-softmmu/panda_plugins/panda_osi.so
+
+Faros Started. Nothing to see here. Move along!
+==5278== 
+==5278== HEAP SUMMARY:
+==5278==     in use at exit: 29,677 bytes in 186 blocks
+==5278==   total heap usage: 230 allocs, 44 frees, 56,477 bytes allocated
+==5278== 
+==5278== 78 bytes in 1 blocks are definitely lost in loss record 59 of 90
+==5278==    at 0x4C2AB80: malloc (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5278==    by 0x74D0729: strdup (strdup.c:42)
+==5278==    by 0x6D87EE: panda_plugin_path (panda_plugin.c:112)
+==5278==    by 0x53632D: main (vl.c:3283)
+==5278== 
+==5278== 78 bytes in 1 blocks are definitely lost in loss record 60 of 90
+==5278==    at 0x4C2AB80: malloc (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5278==    by 0x74D0729: strdup (strdup.c:42)
+==5278==    by 0x6D87EE: panda_plugin_path (panda_plugin.c:112)
+==5278==    by 0x6D8844: panda_require (panda_plugin.c:123)
+==5278==    by 0x3A04D584: init_plugin (faros.cpp:1039)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x534E8B: main (vl.c:3338)
+==5278== 
+==5278== 78 bytes in 1 blocks are definitely lost in loss record 61 of 90
+==5278==    at 0x4C2AB80: malloc (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5278==    by 0x74D0729: strdup (strdup.c:42)
+==5278==    by 0x6D87EE: panda_plugin_path (panda_plugin.c:112)
+==5278==    by 0x6D8844: panda_require (panda_plugin.c:123)
+==5278==    by 0x3A04D590: init_plugin (faros.cpp:1040)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x534E8B: main (vl.c:3338)
+==5278== 
+==5278== 78 bytes in 1 blocks are definitely lost in loss record 62 of 90
+==5278==    at 0x4C2AB80: malloc (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5278==    by 0x74D0729: strdup (strdup.c:42)
+==5278==    by 0x6D87EE: panda_plugin_path (panda_plugin.c:112)
+==5278==    by 0x6D8844: panda_require (panda_plugin.c:123)
+==5278==    by 0xB6B27EF: init_plugin (win7x86intro.cpp:360)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x6D884F: panda_require (panda_plugin.c:125)
+==5278==    by 0x3A04D590: init_plugin (faros.cpp:1040)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x534E8B: main (vl.c:3338)
+==5278== 
+==5278== 320 bytes in 1 blocks are possibly lost in loss record 78 of 90
+==5278==    at 0x4C2CC70: calloc (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5278==    by 0x4012E14: allocate_dtv (dl-tls.c:296)
+==5278==    by 0x4012E14: _dl_allocate_tls (dl-tls.c:460)
+==5278==    by 0x4E3FD92: allocate_stack (allocatestack.c:589)
+==5278==    by 0x4E3FD92: pthread_create@@GLIBC_2.2.5 (pthread_create.c:500)
+==5278==    by 0x3A04DA58: init_plugin (faros.cpp:1120)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x534E8B: main (vl.c:3338)
+==5278== 
+==5278== 1,024 bytes in 1 blocks are definitely lost in loss record 82 of 90
+==5278==    at 0x4C2AB80: malloc (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5278==    by 0x54AF0F5: ??? (in /lib/x86_64-linux-gnu/libglib-2.0.so.0.4002.0)
+==5278==    by 0x54AF668: g_malloc0 (in /lib/x86_64-linux-gnu/libglib-2.0.so.0.4002.0)
+==5278==    by 0x6D8782: panda_plugin_path (panda_plugin.c:107)
+==5278==    by 0x6D8844: panda_require (panda_plugin.c:123)
+==5278==    by 0x3A04D584: init_plugin (faros.cpp:1039)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x534E8B: main (vl.c:3338)
+==5278== 
+==5278== 1,024 bytes in 1 blocks are definitely lost in loss record 83 of 90
+==5278==    at 0x4C2AB80: malloc (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5278==    by 0x54AF0F5: ??? (in /lib/x86_64-linux-gnu/libglib-2.0.so.0.4002.0)
+==5278==    by 0x54AF668: g_malloc0 (in /lib/x86_64-linux-gnu/libglib-2.0.so.0.4002.0)
+==5278==    by 0x6D8782: panda_plugin_path (panda_plugin.c:107)
+==5278==    by 0x6D8844: panda_require (panda_plugin.c:123)
+==5278==    by 0x3A04D590: init_plugin (faros.cpp:1040)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x534E8B: main (vl.c:3338)
+==5278== 
+==5278== 1,024 bytes in 1 blocks are definitely lost in loss record 84 of 90
+==5278==    at 0x4C2AB80: malloc (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==5278==    by 0x54AF0F5: ??? (in /lib/x86_64-linux-gnu/libglib-2.0.so.0.4002.0)
+==5278==    by 0x54AF668: g_malloc0 (in /lib/x86_64-linux-gnu/libglib-2.0.so.0.4002.0)
+==5278==    by 0x6D8782: panda_plugin_path (panda_plugin.c:107)
+==5278==    by 0x6D8844: panda_require (panda_plugin.c:123)
+==5278==    by 0xB6B27EF: init_plugin (win7x86intro.cpp:360)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x6D884F: panda_require (panda_plugin.c:125)
+==5278==    by 0x3A04D590: init_plugin (faros.cpp:1040)
+==5278==    by 0x6D8637: panda_load_plugin (panda_plugin.c:89)
+==5278==    by 0x534E8B: main (vl.c:3338)
+==5278== 
+==5278== LEAK SUMMARY:
+==5278==    definitely lost: 3,384 bytes in 7 blocks
+==5278==    indirectly lost: 0 bytes in 0 blocks
+==5278==      possibly lost: 320 bytes in 1 blocks
+==5278==    still reachable: 25,973 bytes in 178 blocks
+==5278==         suppressed: 0 bytes in 0 blocks
+==5278== Reachable blocks (those to which a pointer was found) are not shown.
+==5278== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==5278== 
+==5278== For counts of detected and suppressed errors, rerun with: -v
+==5278== ERROR SUMMARY: 8 errors from 8 contexts (suppressed: 0 from 0)

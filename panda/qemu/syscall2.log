@@ -1,0 +1,416 @@
+
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 7143432
+  Unknown: 7143432
+  Unknown: 7143476
+  Unknown: 7143476
+  Unknown: 7143476
+  Unknown: 3736578
+  Unknown: 3736578
+  Unknown: 3735560
+  Unknown: 3736578
+  Unknown: 3736578
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 3735560
+  Unknown: 3735560
+  Unknown: 3735560
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 3735560
+  Unknown: 3735560
+  Unknown: 3735560
+  Unknown: 3735560
+  Unknown: 3735560
+  Unknown: 3736578
+  Unknown: 3736578
+  Unknown: 3736578
+  Unknown: 3736578
+  Unknown: 3736578
+  Unknown: 3736578
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 73764
+ Calling with ioctl: IOCTL_AFD_SEND
+ >> TCP SEND
+
+  Unknown: 73759
+  Unknown: 73764
+  Unknown: 73787
+  Unknown: 73863
+  Unknown: 73867
+  Unknown: 73751
+  Unknown: 73764
+  Unknown: 73787
+  Unknown: 73863
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 73867
+  Unknown: 73751
+  Unknown: 73764
+  Unknown: 73787
+  Unknown: 73863
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 73867
+  Unknown: 73751
+  Unknown: 73764
+  Unknown: 73787
+  Unknown: 73863
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 2162842
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 2162842
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 2162842
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 2162842
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179663
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 73764
+ Calling with ioctl: IOCTL_AFD_SEND
+ >> TCP SEND
+
+  Unknown: 73759
+  Unknown: 73764
+  Unknown: 73787
+  Unknown: 73863
+  Unknown: 73867
+  Unknown: 73751
+  Unknown: 73764
+  Unknown: 73787
+  Unknown: 73863
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 1179675
+  Unknown: 73775
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 14280
+
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73764
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73775
+ Calling with ioctl: IOCTL_AFD_SEND_DATAGRAM
+ DATAGRAM SEND: ip: 0.0.0.0, port: 27655
+
+  Unknown: 73763
+  Unknown: 73867
+  Unknown: 73779
+  Unknown: 73935
+  Unknown: 73775

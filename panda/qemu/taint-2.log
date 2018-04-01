@@ -1,0 +1,2257 @@
+Memory Address | Taint Labels
+---------------------------------
+Hex Buffer: 0060500700000000360010FF00030000
+String Buffer: 
+================================== 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020FFF42652EFF410050FF24490C0AFF04FF501062FF28FF0000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0070500700000000360010FF00030000
+String Buffer: 
+================================== 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020FFF42652EFF410050FF24490C0AFF04FF5010713728FF0000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 00FF500700000000360010FF00030000
+String Buffer: 
+================================== 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020FFF42652EFF410050FF24490C0AFF04FF5010FFFF28FF0000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 00FF500700000000360010FF00030000
+String Buffer: 
+================================== 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3B005048311F1B0AFFFF0C5011FFFF04100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0AFF7F07000000004000000000000000
+String Buffer: 
+Ä
+================================== 
+Hex Buffer: 0AFF7F07000000004000000000000000
+String Buffer: 
+†
+================================== 
+Hex Buffer: 00FF500700000000360010FF00030000
+String Buffer: 
+================================== 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3B005048311F1C0AFFFF0D5010FFFF04100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 36FFFF07000000003600102A00030000
+String Buffer: 6…ˇ
+================================== 
+Hex Buffer: 52550A0002025254001234560800450001FF5EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FFFF0AFF6EFF5018FF0506520000
+String Buffer: RU
+
+================================== 
+Hex Buffer: FFFFFF0700000000FF0110FF00030000
+String Buffer: ¿…‹
+================================== 
+131910396 | Hard Drive Serial Number, 
+131910400 | Hard Drive Serial Number, 
+131910404 | Hard Drive Serial Number, 
+131910408 | Hard Drive Serial Number, 
+131910412 | Hard Drive Serial Number, 
+131910416 | Hard Drive Serial Number, 
+131910420 | Hard Drive Serial Number, 
+131910424 | Hard Drive Serial Number, 
+131910428 | Hard Drive Serial Number, 
+131910432 | Hard Drive Serial Number, 
+131910436 | Hard Drive Serial Number, 
+131910440 | Hard Drive Serial Number, 
+131910444 | Hard Drive Serial Number, 
+131910448 | Hard Drive Serial Number, 
+131910452 | Hard Drive Serial Number, 
+131910456 | Hard Drive Serial Number, 
+131910460 | Hard Drive Serial Number, 
+131910464 | Hard Drive Serial Number, 
+131910468 | Hard Drive Serial Number, 
+131910472 | Hard Drive Serial Number, 
+131910476 | Hard Drive Serial Number, 
+131910480 | Hard Drive Serial Number, 
+131910484 | Hard Drive Serial Number, 
+131910488 | Hard Drive Serial Number, 
+131910492 | Hard Drive Serial Number, 
+131910496 | Hard Drive Serial Number, 
+131910500 | Hard Drive Serial Number, 
+131910504 | Hard Drive Serial Number, 
+131910508 | Hard Drive Serial Number, 
+131910512 | Hard Drive Serial Number, 
+131910516 | Hard Drive Serial Number, 
+131910520 | Hard Drive Serial Number, 
+131910524 | Hard Drive Serial Number, 
+131910528 | Hard Drive Serial Number, 
+131910532 | Hard Drive Serial Number, 
+131910536 | Hard Drive Serial Number, 
+Hex Buffer: 504F5354202F20485454502F312E310D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A436F6E74656E742D4C656E6774683A203239390D0A436F6E74656E742D547970653A206170706C69636174696F6E2F6F637465742D73747265616D0D0A486F73743A2064722E62722E62616964752E636F6D0D0A4B6565702D416C6976653A2074696D656F75743D3630302C6D61783D313030300D0A0D0A0000004F000008041001181D2220663330333865306435616362366338323935616464353439356162636331336228FFFFFFFFFFFFFFFF07320038FF0140004806500158FFFFFF056020FF05083131303030303032000000FF02282FFFFF7D44FF45FF4C112BFF7F73310AFF5DFFFFFFFFFFFF577DFFFFFF3FFF25FF09FF4AFFFFFF1B76606F184DFF13FFFF767FFFFF5E6146FFFF58FF556CFF3AFF351B2165FFFF71406AFFFF4D0332FF476C0005FF12FF67FFFFFF4EFF1CFF1D34FFFF4137FF78FF1E05002A41FFFFFF767EFF050FFFFF114D4EFF07371261FF7461FFFF69FFFF66FF7440FF0827367FFFFF1445FFFF20FF24FFFF42FF35FF15FFFF3AFFFFFFFFFF05FF45FF23FFFF77296AFFFF15FF01FF095FFF4FFFFFFFFFFFFF7A6DFF7EFF11FF17FF3FFF54FFFF
+String Buffer: POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Length: 299
+Content-Type: application/octet-stream
+Host: dr.br.baidu.com
+Keep-Alive: timeout=600,max=1000
+
+
+================================== 
+Hex Buffer: 0AFF7F07000000004000000000000000
+String Buffer: 
+∞
+================================== 
+Hex Buffer: 0AFF7F07000000000402000000000000
+String Buffer: 
+–
+================================== 
+129724480 | Hard Drive Serial Number, 
+129724484 | Hard Drive Serial Number, 
+129724488 | Hard Drive Serial Number, 
+129724492 | Hard Drive Serial Number, 
+Hex Buffer: 36FFFF07000000003600102A00030000
+String Buffer: 6…ˇ
+================================== 
+134203702 | Hard Drive Serial Number, 
+134203706 | Hard Drive Serial Number, 
+134203710 | Hard Drive Serial Number, 
+134203714 | Hard Drive Serial Number, 
+134203718 | Hard Drive Serial Number, 
+134203722 | Hard Drive Serial Number, 
+134203726 | Hard Drive Serial Number, 
+134203730 | Hard Drive Serial Number, 
+134203734 | Hard Drive Serial Number, 
+134203738 | Hard Drive Serial Number, 
+134203742 | Hard Drive Serial Number, 
+134203746 | Hard Drive Serial Number, 
+134203750 | Hard Drive Serial Number, 
+134203754 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450001FF5EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FFFF0AFF6FFF5018FF1A06520000
+String Buffer: RU
+
+================================== 
+129724496 | Hard Drive Serial Number, 
+129724500 | Hard Drive Serial Number, 
+129724504 | Hard Drive Serial Number, 
+129724508 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF0700000000FF0110FF00030000
+String Buffer: ¿…‹
+================================== 
+131910080 | Hard Drive Serial Number, 
+131910084 | Hard Drive Serial Number, 
+131910088 | Hard Drive Serial Number, 
+131910092 | Hard Drive Serial Number, 
+131910096 | Hard Drive Serial Number, 
+131910100 | Hard Drive Serial Number, 
+131910104 | Hard Drive Serial Number, 
+131910108 | Hard Drive Serial Number, 
+131910112 | Hard Drive Serial Number, 
+131910116 | Hard Drive Serial Number, 
+131910120 | Hard Drive Serial Number, 
+131910124 | Hard Drive Serial Number, 
+131910128 | Hard Drive Serial Number, 
+131910132 | Hard Drive Serial Number, 
+131910136 | Hard Drive Serial Number, 
+131910140 | Hard Drive Serial Number, 
+131910144 | Hard Drive Serial Number, 
+131910148 | Hard Drive Serial Number, 
+131910152 | Hard Drive Serial Number, 
+131910156 | Hard Drive Serial Number, 
+131910160 | Hard Drive Serial Number, 
+131910164 | Hard Drive Serial Number, 
+131910168 | Hard Drive Serial Number, 
+131910172 | Hard Drive Serial Number, 
+131910176 | Hard Drive Serial Number, 
+131910180 | Hard Drive Serial Number, 
+131910184 | Hard Drive Serial Number, 
+131910188 | Hard Drive Serial Number, 
+131910192 | Hard Drive Serial Number, 
+131910196 | Hard Drive Serial Number, 
+131910200 | Hard Drive Serial Number, 
+131910204 | Hard Drive Serial Number, 
+131910208 | Hard Drive Serial Number, 
+131910212 | Hard Drive Serial Number, 
+131910216 | Hard Drive Serial Number, 
+131910220 | Hard Drive Serial Number, 
+131910224 | Hard Drive Serial Number, 
+131910228 | Hard Drive Serial Number, 
+131910232 | Hard Drive Serial Number, 
+131910236 | Hard Drive Serial Number, 
+131910240 | Hard Drive Serial Number, 
+131910244 | Hard Drive Serial Number, 
+131910248 | Hard Drive Serial Number, 
+131910252 | Hard Drive Serial Number, 
+131910256 | Hard Drive Serial Number, 
+131910260 | Hard Drive Serial Number, 
+131910264 | Hard Drive Serial Number, 
+131910268 | Hard Drive Serial Number, 
+131910272 | Hard Drive Serial Number, 
+131910276 | Hard Drive Serial Number, 
+131910280 | Hard Drive Serial Number, 
+131910284 | Hard Drive Serial Number, 
+131910288 | Hard Drive Serial Number, 
+131910292 | Hard Drive Serial Number, 
+131910296 | Hard Drive Serial Number, 
+131910300 | Hard Drive Serial Number, 
+131910304 | Hard Drive Serial Number, 
+131910308 | Hard Drive Serial Number, 
+131910312 | Hard Drive Serial Number, 
+131910316 | Hard Drive Serial Number, 
+131910320 | Hard Drive Serial Number, 
+131910324 | Hard Drive Serial Number, 
+131910328 | Hard Drive Serial Number, 
+131910332 | Hard Drive Serial Number, 
+131910336 | Hard Drive Serial Number, 
+131910340 | Hard Drive Serial Number, 
+131910344 | Hard Drive Serial Number, 
+131910348 | Hard Drive Serial Number, 
+131910352 | Hard Drive Serial Number, 
+131910356 | Hard Drive Serial Number, 
+131910360 | Hard Drive Serial Number, 
+131910364 | Hard Drive Serial Number, 
+131910368 | Hard Drive Serial Number, 
+131910372 | Hard Drive Serial Number, 
+131910376 | Hard Drive Serial Number, 
+131910380 | Hard Drive Serial Number, 
+131910384 | Hard Drive Serial Number, 
+131910388 | Hard Drive Serial Number, 
+131910392 | Hard Drive Serial Number, 
+131910396 | Hard Drive Serial Number, 
+131910400 | Hard Drive Serial Number, 
+131910404 | Hard Drive Serial Number, 
+131910408 | Hard Drive Serial Number, 
+131910412 | Hard Drive Serial Number, 
+131910416 | Hard Drive Serial Number, 
+131910420 | Hard Drive Serial Number, 
+131910424 | Hard Drive Serial Number, 
+131910428 | Hard Drive Serial Number, 
+131910432 | Hard Drive Serial Number, 
+131910436 | Hard Drive Serial Number, 
+131910440 | Hard Drive Serial Number, 
+131910444 | MAC, Hard Drive Serial Number, 
+131910448 | MAC, Hard Drive Serial Number, 
+131910452 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910456 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910460 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910464 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910468 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910472 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910476 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910480 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910484 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910488 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910492 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910496 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910500 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910504 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910508 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910512 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910516 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910520 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910524 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910528 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910532 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+131910536 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+Hex Buffer: 504F5354202F20485454502F312E310D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A436F6E74656E742D4C656E6774683A203239390D0A436F6E74656E742D547970653A206170706C69636174696F6E2F6F637465742D73747265616D0D0A486F73743A2064722E62722E62616964752E636F6D0D0A4B6565702D416C6976653A2074696D656F75743D3630302C6D61783D313030300D0A0D0A0000004F000008041001181E2220663330333865306435616362366338323935616464353439356162636331336228FFFFFFFFFFFFFFFF07320038FF0140004806500158FFFFFF056020FF05083131303030303032000000FF022832FFFF0BFFFF50FF7E1A4BFF40FF6BFF54FF16FFFFFF2253FFFF5FFF275CFF3D60FF70085A61FFFFFF35FF23FFFFFFFF48FFFF18FF4CFFFFFF01FFFF33FFFFFF58FF240BFFFF5A04740DFF7E1B65FF2DFF1047FF37FFFF7BFFFF7B0FFF146674FFFFFF09321C71FFFF14FFFFFF18FFFF3CFF192446FFFFFFFFFF6214FF6C2D2D7CFFFFFF47FF237A682BFFFFFF424F2578584AFF270FFFFF3A5D3A6EFF3B083BFFFF14FF3C25371C49FF4A3E2B05FF03FFFF79FF1F1607051EFFFFFF24FFFF6D4E4EFF6CFF353833485BFFFF06FF6852
+String Buffer: POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Length: 299
+Content-Type: application/octet-stream
+Host: dr.br.baidu.com
+Keep-Alive: timeout=600,max=1000
+
+
+================================== 
+Hex Buffer: 0AFFFF07000000004401000000000000
+String Buffer: 
+¿œ
+================================== 
+Hex Buffer: 0AFFFF07000000004401000000000000
+String Buffer: 
+†œ
+================================== 
+129724512 | Hard Drive Serial Number, 
+129724516 | Hard Drive Serial Number, 
+129724520 | Hard Drive Serial Number, 
+129724524 | Hard Drive Serial Number, 
+Hex Buffer: 00FF500700000000360010FF00030000
+String Buffer: 
+================================== 
+122736640 | Hard Drive Serial Number, 
+122736644 | Hard Drive Serial Number, 
+122736648 | Hard Drive Serial Number, 
+122736652 | Hard Drive Serial Number, 
+122736656 | Hard Drive Serial Number, 
+122736660 | Hard Drive Serial Number, 
+122736664 | Hard Drive Serial Number, 
+122736668 | Hard Drive Serial Number, 
+122736672 | Hard Drive Serial Number, 
+122736676 | Hard Drive Serial Number, 
+122736680 | Hard Drive Serial Number, 
+122736684 | Hard Drive Serial Number, 
+122736688 | Hard Drive Serial Number, 
+122736692 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FF6C0AFF70775010FF2F04FF0000
+String Buffer: RU
+
+================================== 
+129724528 | Hard Drive Serial Number, 
+129724532 | Hard Drive Serial Number, 
+129724536 | Hard Drive Serial Number, 
+129724540 | Hard Drive Serial Number, 
+Hex Buffer: 00FF500700000000360010FF00030000
+String Buffer: 
+================================== 
+122740736 | Hard Drive Serial Number, 
+122740740 | Hard Drive Serial Number, 
+122740744 | Hard Drive Serial Number, 
+122740748 | Hard Drive Serial Number, 
+122740752 | Hard Drive Serial Number, 
+122740756 | Hard Drive Serial Number, 
+122740760 | Hard Drive Serial Number, 
+122740764 | Hard Drive Serial Number, 
+122740768 | Hard Drive Serial Number, 
+122740772 | Hard Drive Serial Number, 
+122740776 | Hard Drive Serial Number, 
+122740780 | Hard Drive Serial Number, 
+122740784 | Hard Drive Serial Number, 
+122740788 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3E00507401FFFF0AFF6B0C5011FFFF04100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0AFFFF07000000004000000000000000
+String Buffer: 
+êœ
+================================== 
+129724544 | Hard Drive Serial Number, 
+129724548 | Hard Drive Serial Number, 
+129724552 | Hard Drive Serial Number, 
+129724556 | Hard Drive Serial Number, 
+Hex Buffer: 00FF500700000000360010FF00030000
+String Buffer: 
+================================== 
+122744832 | Hard Drive Serial Number, 
+122744836 | Hard Drive Serial Number, 
+122744840 | Hard Drive Serial Number, 
+122744844 | Hard Drive Serial Number, 
+122744848 | Hard Drive Serial Number, 
+122744852 | Hard Drive Serial Number, 
+122744856 | Hard Drive Serial Number, 
+122744860 | Hard Drive Serial Number, 
+122744864 | Hard Drive Serial Number, 
+122744868 | Hard Drive Serial Number, 
+122744872 | Hard Drive Serial Number, 
+122744876 | Hard Drive Serial Number, 
+122744880 | Hard Drive Serial Number, 
+122744884 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3C00506746413D0AFF77FF5011FF2604100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0A70FF07000000002501000000000000
+String Buffer: 
+pœ
+================================== 
+129724560 | Hard Drive Serial Number, 
+129724564 | Hard Drive Serial Number, 
+129724568 | Hard Drive Serial Number, 
+129724572 | Hard Drive Serial Number, 
+Hex Buffer: 0000510700000000360010FF00030000
+String Buffer: 
+================================== 
+122748928 | Hard Drive Serial Number, 
+122748932 | Hard Drive Serial Number, 
+122748936 | Hard Drive Serial Number, 
+122748940 | Hard Drive Serial Number, 
+122748944 | Hard Drive Serial Number, 
+122748948 | Hard Drive Serial Number, 
+122748952 | Hard Drive Serial Number, 
+122748956 | Hard Drive Serial Number, 
+122748960 | Hard Drive Serial Number, 
+122748964 | Hard Drive Serial Number, 
+122748968 | Hard Drive Serial Number, 
+122748972 | Hard Drive Serial Number, 
+122748976 | Hard Drive Serial Number, 
+122748980 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3D0050FFFF2A110AFF710C5011FFFF04100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0A50FF07000000004000000000000000
+String Buffer: 
+Pœ
+================================== 
+Hex Buffer: 0A30FF07000000002501000000000000
+String Buffer: 
+0œ
+================================== 
+Hex Buffer: 0A10FF07000000004000000000000000
+String Buffer: 
+œ
+================================== 
+129724576 | Hard Drive Serial Number, 
+129724580 | Hard Drive Serial Number, 
+129724584 | Hard Drive Serial Number, 
+129724588 | Hard Drive Serial Number, 
+Hex Buffer: 0010510700000000360010FF00030000
+String Buffer: 
+================================== 
+122753024 | Hard Drive Serial Number, 
+122753028 | Hard Drive Serial Number, 
+122753032 | Hard Drive Serial Number, 
+122753036 | Hard Drive Serial Number, 
+122753040 | Hard Drive Serial Number, 
+122753044 | Hard Drive Serial Number, 
+122753048 | Hard Drive Serial Number, 
+122753052 | Hard Drive Serial Number, 
+122753056 | Hard Drive Serial Number, 
+122753060 | Hard Drive Serial Number, 
+122753064 | Hard Drive Serial Number, 
+122753068 | Hard Drive Serial Number, 
+122753072 | Hard Drive Serial Number, 
+122753076 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3E00507401FFFF0AFF6B0D5010FFFF04100000
+String Buffer: RU
+
+================================== 
+129724592 | Hard Drive Serial Number, 
+129724596 | Hard Drive Serial Number, 
+129724600 | Hard Drive Serial Number, 
+129724604 | Hard Drive Serial Number, 
+Hex Buffer: 0020510700000000360010FF00030000
+String Buffer: 
+================================== 
+122757120 | Hard Drive Serial Number, 
+122757124 | Hard Drive Serial Number, 
+122757128 | Hard Drive Serial Number, 
+122757132 | Hard Drive Serial Number, 
+122757136 | Hard Drive Serial Number, 
+122757140 | Hard Drive Serial Number, 
+122757144 | Hard Drive Serial Number, 
+122757148 | Hard Drive Serial Number, 
+122757152 | Hard Drive Serial Number, 
+122757156 | Hard Drive Serial Number, 
+122757160 | Hard Drive Serial Number, 
+122757164 | Hard Drive Serial Number, 
+122757168 | Hard Drive Serial Number, 
+122757172 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3C00506746413E0AFF77FF5010FF2604100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0A50FF07000000004000000000000000
+String Buffer: 
+PŒ
+================================== 
+129724608 | Hard Drive Serial Number, 
+129724612 | Hard Drive Serial Number, 
+129724616 | Hard Drive Serial Number, 
+129724620 | Hard Drive Serial Number, 
+Hex Buffer: 0030510700000000360010FF00030000
+String Buffer: 
+================================== 
+122761216 | Hard Drive Serial Number, 
+122761220 | Hard Drive Serial Number, 
+122761224 | Hard Drive Serial Number, 
+122761228 | Hard Drive Serial Number, 
+122761232 | Hard Drive Serial Number, 
+122761236 | Hard Drive Serial Number, 
+122761240 | Hard Drive Serial Number, 
+122761244 | Hard Drive Serial Number, 
+122761248 | Hard Drive Serial Number, 
+122761252 | Hard Drive Serial Number, 
+122761256 | Hard Drive Serial Number, 
+122761260 | Hard Drive Serial Number, 
+122761264 | Hard Drive Serial Number, 
+122761268 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3D0050FFFF2A120AFF710D5010FFFF04100000
+String Buffer: RU
+
+================================== 
+129724624 | Hard Drive Serial Number, 
+129724628 | Hard Drive Serial Number, 
+129724632 | Hard Drive Serial Number, 
+129724636 | Hard Drive Serial Number, 
+Hex Buffer: 0E182100222800000000002000000000
+String Buffer: !
+================================== 
+129724640 | Hard Drive Serial Number, 
+129724644 | Hard Drive Serial Number, 
+129724648 | Hard Drive Serial Number, 
+129724652 | Hard Drive Serial Number, 
+Hex Buffer: 00405107000000004F0010FF00030000
+String Buffer: 
+================================== 
+122765312 | Hard Drive Serial Number, 
+122765316 | Hard Drive Serial Number, 
+122765320 | Hard Drive Serial Number, 
+122765324 | Hard Drive Serial Number, 
+122765328 | Hard Drive Serial Number, 
+122765332 | Hard Drive Serial Number, 
+122765336 | Hard Drive Serial Number, 
+122765340 | Hard Drive Serial Number, 
+122765344 | Hard Drive Serial Number, 
+122765348 | Hard Drive Serial Number, 
+122765352 | Hard Drive Serial Number, 
+122765356 | Hard Drive Serial Number, 
+122765360 | Hard Drive Serial Number, 
+122765364 | Hard Drive Serial Number, 
+122765368 | Hard Drive Serial Number, 
+122765372 | Hard Drive Serial Number, 
+122765376 | Hard Drive Serial Number, 
+122765380 | Hard Drive Serial Number, 
+122765384 | Hard Drive Serial Number, 
+122765388 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002035254001234560800450000415EFF0000FF1100000A00020F0A000203FFFF0035002D1850FF69010000010000000000000677656261706902627205626169647503636F6D0000010001
+String Buffer: RU
+
+================================== 
+129724656 | Hard Drive Serial Number, 
+129724660 | Hard Drive Serial Number, 
+129724664 | Hard Drive Serial Number, 
+129724668 | Hard Drive Serial Number, 
+Hex Buffer: 00505107000000004F0010FF00030000
+String Buffer: 
+================================== 
+122769408 | Hard Drive Serial Number, 
+122769412 | Hard Drive Serial Number, 
+122769416 | Hard Drive Serial Number, 
+122769420 | Hard Drive Serial Number, 
+122769424 | Hard Drive Serial Number, 
+122769428 | Hard Drive Serial Number, 
+122769432 | Hard Drive Serial Number, 
+122769436 | Hard Drive Serial Number, 
+122769440 | Hard Drive Serial Number, 
+122769444 | Hard Drive Serial Number, 
+122769448 | Hard Drive Serial Number, 
+122769452 | Hard Drive Serial Number, 
+122769456 | Hard Drive Serial Number, 
+122769460 | Hard Drive Serial Number, 
+122769464 | Hard Drive Serial Number, 
+122769468 | Hard Drive Serial Number, 
+122769472 | Hard Drive Serial Number, 
+122769476 | Hard Drive Serial Number, 
+122769480 | Hard Drive Serial Number, 
+122769484 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002035254001234560800450000415EFF0000FF1100000A00020F0A000203FFFF0035002D1850130E010000010000000000000677656261706902627205626169647503636F6D0000010001
+String Buffer: RU
+
+================================== 
+129724672 | Hard Drive Serial Number, 
+129724676 | Hard Drive Serial Number, 
+129724680 | Hard Drive Serial Number, 
+129724684 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF07000000003E00000A00000000
+String Buffer: æﬂπ
+================================== 
+129621950 | Hard Drive Serial Number, 
+129621954 | Hard Drive Serial Number, 
+129621958 | Hard Drive Serial Number, 
+129621962 | Hard Drive Serial Number, 
+129621966 | Hard Drive Serial Number, 
+129621970 | Hard Drive Serial Number, 
+129621974 | Hard Drive Serial Number, 
+129621978 | Hard Drive Serial Number, 
+129621982 | Hard Drive Serial Number, 
+129621986 | Hard Drive Serial Number, 
+129621990 | Hard Drive Serial Number, 
+129621994 | Hard Drive Serial Number, 
+129621998 | Hard Drive Serial Number, 
+129622002 | Hard Drive Serial Number, 
+129622006 | Hard Drive Serial Number, 
+129622010 | Hard Drive Serial Number, 
+Hex Buffer: 33330000000C525400123456FFFF6000000000FF1101FFFF000000000000183C2626FFFFFFFFFF02000000000000000000000000000CFFFF076C00FF0608
+String Buffer: 33
+================================== 
+129724688 | Hard Drive Serial Number, 
+129724692 | Hard Drive Serial Number, 
+129724696 | Hard Drive Serial Number, 
+129724700 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF0700000000FF0000FF00000000
+String Buffer: ¿…‹
+================================== 
+131910080 | Hard Drive Serial Number, 
+131910084 | Hard Drive Serial Number, 
+131910088 | Hard Drive Serial Number, 
+131910092 | Hard Drive Serial Number, 
+131910096 | Hard Drive Serial Number, 
+131910100 | Hard Drive Serial Number, 
+131910104 | Hard Drive Serial Number, 
+131910108 | Hard Drive Serial Number, 
+131910112 | Hard Drive Serial Number, 
+131910116 | Hard Drive Serial Number, 
+131910120 | Hard Drive Serial Number, 
+131910124 | Hard Drive Serial Number, 
+131910128 | Hard Drive Serial Number, 
+131910132 | Hard Drive Serial Number, 
+131910136 | Hard Drive Serial Number, 
+131910140 | Hard Drive Serial Number, 
+131910144 | Hard Drive Serial Number, 
+131910148 | Hard Drive Serial Number, 
+131910152 | Hard Drive Serial Number, 
+131910156 | Hard Drive Serial Number, 
+131910160 | Hard Drive Serial Number, 
+131910164 | Hard Drive Serial Number, 
+131910168 | Hard Drive Serial Number, 
+131910172 | Hard Drive Serial Number, 
+131910176 | Hard Drive Serial Number, 
+131910180 | Hard Drive Serial Number, 
+131910184 | Hard Drive Serial Number, 
+131910188 | Hard Drive Serial Number, 
+131910192 | Hard Drive Serial Number, 
+131910196 | Hard Drive Serial Number, 
+131910200 | Hard Drive Serial Number, 
+131910204 | Hard Drive Serial Number, 
+131910208 | Hard Drive Serial Number, 
+131910212 | Hard Drive Serial Number, 
+131910216 | Hard Drive Serial Number, 
+131910220 | Hard Drive Serial Number, 
+131910224 | Hard Drive Serial Number, 
+Hex Buffer: 4D2D534541524348202A20485454502F312E310D0A486F73743A5B464630323A3A435D3A313930300D0A53543A75726E3A4D6963726F736F66742057696E646F77732050656572204E616D65205265736F6C7574696F6E2050726F746F636F6C3A2056343A495056363A4C696E6B4C6F63616C0D0A4D616E3A22737364703A646973636F766572220D0A4D583A330D0A0D0A
+String Buffer: M-SEARCH * HTTP/1.1
+Host:[FF02::C]:1900
+ST:urn:Microsoft Windows Peer Name Resolution Protocol: V4:IPV6:LinkLocal
+Man:"ssdp:discover"
+MX:3
+
+08
+================================== 
+129724704 | Hard Drive Serial Number, 
+129724708 | Hard Drive Serial Number, 
+129724712 | Hard Drive Serial Number, 
+129724716 | Hard Drive Serial Number, 
+Hex Buffer: 0E182100223200000000002000000000
+String Buffer: !
+================================== 
+129724720 | Hard Drive Serial Number, 
+129724724 | Hard Drive Serial Number, 
+129724728 | Hard Drive Serial Number, 
+129724732 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF07000000003600102A00030000
+String Buffer: é—‡
+================================== 
+132174222 | Hard Drive Serial Number, 
+132174226 | Hard Drive Serial Number, 
+132174230 | Hard Drive Serial Number, 
+132174234 | Hard Drive Serial Number, 
+132174238 | Hard Drive Serial Number, 
+132174242 | Hard Drive Serial Number, 
+132174246 | Hard Drive Serial Number, 
+132174250 | Hard Drive Serial Number, 
+132174254 | Hard Drive Serial Number, 
+132174258 | Hard Drive Serial Number, 
+132174262 | Hard Drive Serial Number, 
+132174266 | Hard Drive Serial Number, 
+132174270 | Hard Drive Serial Number, 
+132174274 | Hard Drive Serial Number, 
+Hex Buffer: 52550A00020252540012345608004500021C5EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FF6C0AFF70775018FF2F067A0000
+String Buffer: RU
+
+================================== 
+129724736 | Hard Drive Serial Number, 
+129724740 | Hard Drive Serial Number, 
+129724744 | Hard Drive Serial Number, 
+129724748 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF0700000000FF0110FF00030000
+String Buffer: ¿˘‡
+================================== 
+132184512 | Hard Drive Serial Number, 
+132184516 | Hard Drive Serial Number, 
+132184520 | Hard Drive Serial Number, 
+132184524 | Hard Drive Serial Number, 
+132184528 | Hard Drive Serial Number, 
+132184532 | Hard Drive Serial Number, 
+132184536 | Hard Drive Serial Number, 
+132184540 | Hard Drive Serial Number, 
+132184544 | Hard Drive Serial Number, 
+132184548 | Hard Drive Serial Number, 
+132184552 | Hard Drive Serial Number, 
+132184556 | Hard Drive Serial Number, 
+132184560 | Hard Drive Serial Number, 
+132184564 | Hard Drive Serial Number, 
+132184568 | Hard Drive Serial Number, 
+132184572 | Hard Drive Serial Number, 
+132184576 | Hard Drive Serial Number, 
+132184580 | Hard Drive Serial Number, 
+132184584 | Hard Drive Serial Number, 
+132184588 | Hard Drive Serial Number, 
+132184592 | Hard Drive Serial Number, 
+132184596 | Hard Drive Serial Number, 
+132184600 | Hard Drive Serial Number, 
+132184604 | Hard Drive Serial Number, 
+132184608 | Hard Drive Serial Number, 
+132184612 | Hard Drive Serial Number, 
+132184616 | Hard Drive Serial Number, 
+132184620 | Hard Drive Serial Number, 
+132184624 | Hard Drive Serial Number, 
+132184628 | Hard Drive Serial Number, 
+132184632 | Hard Drive Serial Number, 
+132184636 | Hard Drive Serial Number, 
+132184640 | Hard Drive Serial Number, 
+132184644 | Hard Drive Serial Number, 
+132184648 | Hard Drive Serial Number, 
+132184652 | Hard Drive Serial Number, 
+132184656 | Hard Drive Serial Number, 
+132184660 | Hard Drive Serial Number, 
+132184664 | Hard Drive Serial Number, 
+132184668 | Hard Drive Serial Number, 
+132184672 | Hard Drive Serial Number, 
+132184676 | Hard Drive Serial Number, 
+132184680 | Hard Drive Serial Number, 
+132184684 | Hard Drive Serial Number, 
+132184688 | Hard Drive Serial Number, 
+132184692 | Hard Drive Serial Number, 
+132184696 | Hard Drive Serial Number, 
+132184700 | Hard Drive Serial Number, 
+132184704 | Hard Drive Serial Number, 
+132184708 | Hard Drive Serial Number, 
+132184712 | Hard Drive Serial Number, 
+132184716 | Hard Drive Serial Number, 
+132184720 | Hard Drive Serial Number, 
+132184724 | Hard Drive Serial Number, 
+132184728 | Hard Drive Serial Number, 
+132184732 | Hard Drive Serial Number, 
+132184736 | Hard Drive Serial Number, 
+132184740 | Hard Drive Serial Number, 
+132184744 | Hard Drive Serial Number, 
+132184748 | Hard Drive Serial Number, 
+132184752 | Hard Drive Serial Number, 
+132184756 | Hard Drive Serial Number, 
+132184760 | Hard Drive Serial Number, 
+132184764 | Hard Drive Serial Number, 
+132184768 | Hard Drive Serial Number, 
+132184772 | Hard Drive Serial Number, 
+132184776 | Hard Drive Serial Number, 
+132184780 | Hard Drive Serial Number, 
+132184784 | Hard Drive Serial Number, 
+132184788 | Hard Drive Serial Number, 
+132184792 | Hard Drive Serial Number, 
+132184796 | Hard Drive Serial Number, 
+132184800 | Hard Drive Serial Number, 
+132184804 | Hard Drive Serial Number, 
+132184808 | Hard Drive Serial Number, 
+132184812 | Hard Drive Serial Number, 
+132184816 | Hard Drive Serial Number, 
+132184820 | Hard Drive Serial Number, 
+132184824 | Hard Drive Serial Number, 
+132184828 | Hard Drive Serial Number, 
+132184832 | Hard Drive Serial Number, 
+132184836 | Hard Drive Serial Number, 
+132184840 | Hard Drive Serial Number, 
+132184844 | Hard Drive Serial Number, 
+132184848 | Hard Drive Serial Number, 
+132184852 | Hard Drive Serial Number, 
+132184856 | Hard Drive Serial Number, 
+132184860 | Hard Drive Serial Number, 
+132184864 | Hard Drive Serial Number, 
+132184868 | Hard Drive Serial Number, 
+132184872 | Hard Drive Serial Number, 
+132184876 | Hard Drive Serial Number, 
+132184880 | Hard Drive Serial Number, 
+132184884 | Hard Drive Serial Number, 
+132184888 | Hard Drive Serial Number, 
+132184892 | Hard Drive Serial Number, 
+132184896 | Hard Drive Serial Number, 
+132184900 | Hard Drive Serial Number, 
+132184904 | Hard Drive Serial Number, 
+132184908 | Hard Drive Serial Number, 
+132184912 | Hard Drive Serial Number, 
+132184916 | MAC, Hard Drive Serial Number, 
+132184920 | MAC, Hard Drive Serial Number, 
+132184924 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184928 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184932 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184936 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184940 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184944 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184948 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184952 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184956 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184960 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184964 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184968 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184972 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184976 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184980 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184984 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184988 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184992 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184996 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185000 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185004 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185008 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+Hex Buffer: 504F5354202F20485454502F312E310D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A436F6E74656E742D4C656E6774683A203333390D0A436F6E74656E742D547970653A206170706C69636174696F6E2F6F637465742D73747265616D0D0A486F73743A2064722E62722E62616964752E636F6D0D0A4B6565702D416C6976653A2074696D656F75743D3630302C6D61783D313030300D0A0D0A0000004F000008041001181F2220663330333865306435616362366338323935616464353439356162636331336228FFFFFFFFFFFFFFFF07320038FF0140004806500158FFFFFF056020FF05083131303030303032000000FF02120A78FF5617FF194767FFFFFF7618FFFF2F69FFFF0249FF6563FFFFFF7CFF6902FFFFFFFFFF67FF0D24FF0879FFFFFF29FF791FFFFFFFFF785EFFFF39FF52165FFFFF204EFFFF54FFFFFFFFFFFFFF3176FFFF520FFFFFFF194527FFFF65FF4EFFFF7FFFFFFFFF4111FF2FFFFF52056DFFFFFF3F5D34FF12FF3A24FFFFFF736FFF1345320107FFFFFFFFFFFF01036615FFFF4F2B2FFFFFFFFF116424FFFF18FF7207FFFF6AFFFF4648FFFF572102FF3452FFFF091EFFFFFFFFFF406F680BFF6A437208FFFFFFFFFFFF3CFFFF0F3F07FFFF4A3C5815FF2618FF09FFFF09FF0E17487C44FF0EFF00FF724421FFFFFFFF7C0F20FF7BFFFF07FF5D
+String Buffer: POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Length: 339
+Content-Type: application/octet-stream
+Host: dr.br.baidu.com
+Keep-Alive: timeout=600,max=1000
+
+
+================================== 
+Hex Buffer: 0A30FF07000000004000000000000000
+String Buffer: 
+0Œ
+================================== 
+Hex Buffer: 0A10FF07000000004401000000000000
+String Buffer: 
+Œ
+================================== 
+Hex Buffer: 0AFFFF07000000002501000000000000
+String Buffer: 
+Õ
+================================== 
+129724752 | Hard Drive Serial Number, 
+129724756 | Hard Drive Serial Number, 
+129724760 | Hard Drive Serial Number, 
+129724764 | Hard Drive Serial Number, 
+Hex Buffer: 00FF510700000000420010FF00030000
+String Buffer: 
+================================== 
+122781696 | Hard Drive Serial Number, 
+122781700 | Hard Drive Serial Number, 
+122781704 | Hard Drive Serial Number, 
+122781708 | Hard Drive Serial Number, 
+122781712 | Hard Drive Serial Number, 
+122781716 | Hard Drive Serial Number, 
+122781720 | Hard Drive Serial Number, 
+122781724 | Hard Drive Serial Number, 
+122781728 | Hard Drive Serial Number, 
+122781732 | Hard Drive Serial Number, 
+122781736 | Hard Drive Serial Number, 
+122781740 | Hard Drive Serial Number, 
+122781744 | Hard Drive Serial Number, 
+122781748 | Hard Drive Serial Number, 
+122781752 | Hard Drive Serial Number, 
+122781756 | Hard Drive Serial Number, 
+122781760 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000345EFF4000FF0600000A00020F767BFF30FF4D00504475FFFF00000000FF02200054FF0000020405FF0103030201010402
+String Buffer: RU
+
+================================== 
+129724768 | Hard Drive Serial Number, 
+129724772 | Hard Drive Serial Number, 
+129724776 | Hard Drive Serial Number, 
+129724780 | Hard Drive Serial Number, 
+Hex Buffer: 00FF510700000000420010FF00030000
+String Buffer: 
+================================== 
+122785792 | Hard Drive Serial Number, 
+122785796 | Hard Drive Serial Number, 
+122785800 | Hard Drive Serial Number, 
+122785804 | Hard Drive Serial Number, 
+122785808 | Hard Drive Serial Number, 
+122785812 | Hard Drive Serial Number, 
+122785816 | Hard Drive Serial Number, 
+122785820 | Hard Drive Serial Number, 
+122785824 | Hard Drive Serial Number, 
+122785828 | Hard Drive Serial Number, 
+122785832 | Hard Drive Serial Number, 
+122785836 | Hard Drive Serial Number, 
+122785840 | Hard Drive Serial Number, 
+122785844 | Hard Drive Serial Number, 
+122785848 | Hard Drive Serial Number, 
+122785852 | Hard Drive Serial Number, 
+122785856 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000345EFF4000FF0600000A00020F767BFF30FF4E0050FFFFFF0400000000FF02200054FF0000020405FF0103030201010402
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0AFFFF07000000004000000000000000
+String Buffer: 
+–Õ
+================================== 
+129724784 | Hard Drive Serial Number, 
+129724788 | Hard Drive Serial Number, 
+129724792 | Hard Drive Serial Number, 
+129724796 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF07000000003600102A00030000
+String Buffer: é—‡
+================================== 
+132174222 | Hard Drive Serial Number, 
+132174226 | Hard Drive Serial Number, 
+132174230 | Hard Drive Serial Number, 
+132174234 | Hard Drive Serial Number, 
+132174238 | Hard Drive Serial Number, 
+132174242 | Hard Drive Serial Number, 
+132174246 | Hard Drive Serial Number, 
+132174250 | Hard Drive Serial Number, 
+132174254 | Hard Drive Serial Number, 
+132174258 | Hard Drive Serial Number, 
+132174262 | Hard Drive Serial Number, 
+132174266 | Hard Drive Serial Number, 
+132174270 | Hard Drive Serial Number, 
+132174274 | Hard Drive Serial Number, 
+Hex Buffer: 52550A00020252540012345608004500021C5EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FF600AFF71625018FF44067A0000
+String Buffer: RU
+
+================================== 
+129724800 | Hard Drive Serial Number, 
+129724804 | Hard Drive Serial Number, 
+129724808 | Hard Drive Serial Number, 
+129724812 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF0700000000FF0110FF00030000
+String Buffer: ¿˘‡
+================================== 
+132184512 | Hard Drive Serial Number, 
+132184516 | Hard Drive Serial Number, 
+132184520 | Hard Drive Serial Number, 
+132184524 | Hard Drive Serial Number, 
+132184528 | Hard Drive Serial Number, 
+132184532 | Hard Drive Serial Number, 
+132184536 | Hard Drive Serial Number, 
+132184540 | Hard Drive Serial Number, 
+132184544 | Hard Drive Serial Number, 
+132184548 | Hard Drive Serial Number, 
+132184552 | Hard Drive Serial Number, 
+132184556 | Hard Drive Serial Number, 
+132184560 | Hard Drive Serial Number, 
+132184564 | Hard Drive Serial Number, 
+132184568 | Hard Drive Serial Number, 
+132184572 | Hard Drive Serial Number, 
+132184576 | Hard Drive Serial Number, 
+132184580 | Hard Drive Serial Number, 
+132184584 | Hard Drive Serial Number, 
+132184588 | Hard Drive Serial Number, 
+132184592 | Hard Drive Serial Number, 
+132184596 | Hard Drive Serial Number, 
+132184600 | Hard Drive Serial Number, 
+132184604 | Hard Drive Serial Number, 
+132184608 | Hard Drive Serial Number, 
+132184612 | Hard Drive Serial Number, 
+132184616 | Hard Drive Serial Number, 
+132184620 | Hard Drive Serial Number, 
+132184624 | Hard Drive Serial Number, 
+132184628 | Hard Drive Serial Number, 
+132184632 | Hard Drive Serial Number, 
+132184636 | Hard Drive Serial Number, 
+132184640 | Hard Drive Serial Number, 
+132184644 | Hard Drive Serial Number, 
+132184648 | Hard Drive Serial Number, 
+132184652 | Hard Drive Serial Number, 
+132184656 | Hard Drive Serial Number, 
+132184660 | Hard Drive Serial Number, 
+132184664 | Hard Drive Serial Number, 
+132184668 | Hard Drive Serial Number, 
+132184672 | Hard Drive Serial Number, 
+132184676 | Hard Drive Serial Number, 
+132184680 | Hard Drive Serial Number, 
+132184684 | Hard Drive Serial Number, 
+132184688 | Hard Drive Serial Number, 
+132184692 | Hard Drive Serial Number, 
+132184696 | Hard Drive Serial Number, 
+132184700 | Hard Drive Serial Number, 
+132184704 | Hard Drive Serial Number, 
+132184708 | Hard Drive Serial Number, 
+132184712 | Hard Drive Serial Number, 
+132184716 | Hard Drive Serial Number, 
+132184720 | Hard Drive Serial Number, 
+132184724 | Hard Drive Serial Number, 
+132184728 | Hard Drive Serial Number, 
+132184732 | Hard Drive Serial Number, 
+132184736 | Hard Drive Serial Number, 
+132184740 | Hard Drive Serial Number, 
+132184744 | Hard Drive Serial Number, 
+132184748 | Hard Drive Serial Number, 
+132184752 | Hard Drive Serial Number, 
+132184756 | Hard Drive Serial Number, 
+132184760 | Hard Drive Serial Number, 
+132184764 | Hard Drive Serial Number, 
+132184768 | Hard Drive Serial Number, 
+132184772 | Hard Drive Serial Number, 
+132184776 | Hard Drive Serial Number, 
+132184780 | Hard Drive Serial Number, 
+132184784 | Hard Drive Serial Number, 
+132184788 | Hard Drive Serial Number, 
+132184792 | Hard Drive Serial Number, 
+132184796 | Hard Drive Serial Number, 
+132184800 | Hard Drive Serial Number, 
+132184804 | Hard Drive Serial Number, 
+132184808 | Hard Drive Serial Number, 
+132184812 | Hard Drive Serial Number, 
+132184816 | Hard Drive Serial Number, 
+132184820 | Hard Drive Serial Number, 
+132184824 | Hard Drive Serial Number, 
+132184828 | Hard Drive Serial Number, 
+132184832 | Hard Drive Serial Number, 
+132184836 | Hard Drive Serial Number, 
+132184840 | Hard Drive Serial Number, 
+132184844 | Hard Drive Serial Number, 
+132184848 | Hard Drive Serial Number, 
+132184852 | Hard Drive Serial Number, 
+132184856 | Hard Drive Serial Number, 
+132184860 | Hard Drive Serial Number, 
+132184864 | Hard Drive Serial Number, 
+132184868 | Hard Drive Serial Number, 
+132184872 | Hard Drive Serial Number, 
+132184876 | Hard Drive Serial Number, 
+132184880 | Hard Drive Serial Number, 
+132184884 | Hard Drive Serial Number, 
+132184888 | Hard Drive Serial Number, 
+132184892 | Hard Drive Serial Number, 
+132184896 | Hard Drive Serial Number, 
+132184900 | Hard Drive Serial Number, 
+132184904 | Hard Drive Serial Number, 
+132184908 | Hard Drive Serial Number, 
+132184912 | Hard Drive Serial Number, 
+132184916 | MAC, Hard Drive Serial Number, 
+132184920 | MAC, Hard Drive Serial Number, 
+132184924 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184928 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184932 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184936 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184940 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184944 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184948 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184952 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184956 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184960 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184964 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184968 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184972 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184976 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184980 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184984 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184988 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184992 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184996 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185000 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185004 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185008 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+Hex Buffer: 504F5354202F20485454502F312E310D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A436F6E74656E742D4C656E6774683A203333390D0A436F6E74656E742D547970653A206170706C69636174696F6E2F6F637465742D73747265616D0D0A486F73743A2064722E62722E62616964752E636F6D0D0A4B6565702D416C6976653A2074696D656F75743D3630302C6D61783D313030300D0A0D0A0000004F00000804100118202220663330333865306435616362366338323935616464353439356162636331336228FFFFFFFFFFFFFFFF07320038FF0140004806500158FFFFFF056020FF05083131303030303032000000FF0212FF28FF515FFF62FF1F1A2352344FFFFFFFFFFFFF6B6A241D7871237FFFFFFF66071476FFFF1411FFFFFF67FFFFFFFFFFFF54FF467C27FFFF26FF101B46FF5E5AFF37FFFF1E17FF43FF4825FFFFFFFF06FFFFFFFFFF2AFF2D396C41FF06FF59FFFF5770243D3CFF6EFFFFFFFF7E0AFFFFFF15FF4CFFFFFFFF18FFFFFFFF60FFFF0E7C25FF10FFFFFF19FFFFFF05FFFFFF3964FFFFFF43FFFF0BFF69FFFF16FFFF32FFFF4AFF4E6AFF4F68FFFF047AFFFF500C667E5936FF4BFFFF0A33FFFFFFFF370BFF0BFF08FF02FFFFFF00FF0EFFFF53FF16544E17FF55FFFF3DFFFF0EFFFF7FFF0C4D05FF37FFFFFFFF18FF1213581AFF70FFFFFF3903
+String Buffer: POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Length: 339
+Content-Type: application/octet-stream
+Host: dr.br.baidu.com
+Keep-Alive: timeout=600,max=1000
+
+
+================================== 
+Hex Buffer: 0AFFFF07000000002501000000000000
+String Buffer: 
+∞Õ
+================================== 
+129724816 | Hard Drive Serial Number, 
+129724820 | Hard Drive Serial Number, 
+129724824 | Hard Drive Serial Number, 
+129724828 | Hard Drive Serial Number, 
+Hex Buffer: 0E182100222800000000002000000000
+String Buffer: !
+================================== 
+129724832 | Hard Drive Serial Number, 
+129724836 | Hard Drive Serial Number, 
+129724840 | Hard Drive Serial Number, 
+129724844 | Hard Drive Serial Number, 
+Hex Buffer: 00FF5107000000004A0010FF00030000
+String Buffer: 
+================================== 
+122793984 | Hard Drive Serial Number, 
+122793988 | Hard Drive Serial Number, 
+122793992 | Hard Drive Serial Number, 
+122793996 | Hard Drive Serial Number, 
+122794000 | Hard Drive Serial Number, 
+122794004 | Hard Drive Serial Number, 
+122794008 | Hard Drive Serial Number, 
+122794012 | Hard Drive Serial Number, 
+122794016 | Hard Drive Serial Number, 
+122794020 | Hard Drive Serial Number, 
+122794024 | Hard Drive Serial Number, 
+122794028 | Hard Drive Serial Number, 
+122794032 | Hard Drive Serial Number, 
+122794036 | Hard Drive Serial Number, 
+122794040 | Hard Drive Serial Number, 
+122794044 | Hard Drive Serial Number, 
+122794048 | Hard Drive Serial Number, 
+122794052 | Hard Drive Serial Number, 
+122794056 | Hard Drive Serial Number, 
+Hex Buffer: 52550A00020352540012345608004500003C5EFF0000FF1100000A00020F0A000203FFFF00350028184B7946010000010000000000000377777706676F6F676C6503636F6D0000010001
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0AFFFF07000000004000000000000000
+String Buffer: 
+êÕ
+================================== 
+Hex Buffer: 0AFFFF07000000004000000000000000
+String Buffer: 
+¿Ã
+================================== 
+Hex Buffer: 0AFFFF07000000004401000000000000
+String Buffer: 
+†Ã
+================================== 
+129724848 | Hard Drive Serial Number, 
+129724852 | Hard Drive Serial Number, 
+129724856 | Hard Drive Serial Number, 
+129724860 | Hard Drive Serial Number, 
+Hex Buffer: 0E182100223200000000002000000000
+String Buffer: !
+================================== 
+129724864 | Hard Drive Serial Number, 
+129724868 | Hard Drive Serial Number, 
+129724872 | Hard Drive Serial Number, 
+129724876 | Hard Drive Serial Number, 
+Hex Buffer: 00FF510700000000360010FF00030000
+String Buffer: 
+================================== 
+122798080 | Hard Drive Serial Number, 
+122798084 | Hard Drive Serial Number, 
+122798088 | Hard Drive Serial Number, 
+122798092 | Hard Drive Serial Number, 
+122798096 | Hard Drive Serial Number, 
+122798100 | Hard Drive Serial Number, 
+122798104 | Hard Drive Serial Number, 
+122798108 | Hard Drive Serial Number, 
+122798112 | Hard Drive Serial Number, 
+122798116 | Hard Drive Serial Number, 
+122798120 | Hard Drive Serial Number, 
+122798124 | Hard Drive Serial Number, 
+122798128 | Hard Drive Serial Number, 
+122798132 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F767BFF30FF4E0050FFFFFF050B025C025010FFFF54FF0000
+String Buffer: RU
+
+================================== 
+129724880 | Hard Drive Serial Number, 
+129724884 | Hard Drive Serial Number, 
+129724888 | Hard Drive Serial Number, 
+129724892 | Hard Drive Serial Number, 
+Hex Buffer: 00FF510700000000360010FF00030000
+String Buffer: 
+================================== 
+122802176 | Hard Drive Serial Number, 
+122802180 | Hard Drive Serial Number, 
+122802184 | Hard Drive Serial Number, 
+122802188 | Hard Drive Serial Number, 
+122802192 | Hard Drive Serial Number, 
+122802196 | Hard Drive Serial Number, 
+122802200 | Hard Drive Serial Number, 
+122802204 | Hard Drive Serial Number, 
+122802208 | Hard Drive Serial Number, 
+122802212 | Hard Drive Serial Number, 
+122802216 | Hard Drive Serial Number, 
+122802220 | Hard Drive Serial Number, 
+122802224 | Hard Drive Serial Number, 
+122802228 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F767BFF30FF4D00504475FFFF0B0356025010FFFF54FF0000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0AFFFF07000000004000000000000000
+String Buffer: 
+ÄÃ
+================================== 
+129724896 | Hard Drive Serial Number, 
+129724900 | Hard Drive Serial Number, 
+129724904 | Hard Drive Serial Number, 
+129724908 | Hard Drive Serial Number, 
+Hex Buffer: 36FFFF07000000003600102A00030000
+String Buffer: 6…ˇ
+================================== 
+134203702 | Hard Drive Serial Number, 
+134203706 | Hard Drive Serial Number, 
+134203710 | Hard Drive Serial Number, 
+134203714 | Hard Drive Serial Number, 
+134203718 | Hard Drive Serial Number, 
+134203722 | Hard Drive Serial Number, 
+134203726 | Hard Drive Serial Number, 
+134203730 | Hard Drive Serial Number, 
+134203734 | Hard Drive Serial Number, 
+134203738 | Hard Drive Serial Number, 
+134203742 | Hard Drive Serial Number, 
+134203746 | Hard Drive Serial Number, 
+134203750 | Hard Drive Serial Number, 
+134203754 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450001575EFF4000FF0600000A00020F767BFF30FF4E0050FFFFFF050B025C025018FFFF56040000
+String Buffer: RU
+
+================================== 
+129724912 | Hard Drive Serial Number, 
+129724916 | Hard Drive Serial Number, 
+129724920 | Hard Drive Serial Number, 
+129724924 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF07000000002F0110FF00030000
+String Buffer: ¿˘‡
+================================== 
+132184512 | Hard Drive Serial Number, 
+132184516 | Hard Drive Serial Number, 
+132184520 | Hard Drive Serial Number, 
+132184524 | Hard Drive Serial Number, 
+132184528 | Hard Drive Serial Number, 
+132184532 | Hard Drive Serial Number, 
+132184536 | Hard Drive Serial Number, 
+132184540 | Hard Drive Serial Number, 
+132184544 | Hard Drive Serial Number, 
+132184548 | Hard Drive Serial Number, 
+132184552 | Hard Drive Serial Number, 
+132184556 | Hard Drive Serial Number, 
+132184560 | Hard Drive Serial Number, 
+132184564 | Hard Drive Serial Number, 
+132184568 | Hard Drive Serial Number, 
+132184572 | Hard Drive Serial Number, 
+132184576 | Hard Drive Serial Number, 
+132184580 | Hard Drive Serial Number, 
+132184584 | Hard Drive Serial Number, 
+132184588 | Hard Drive Serial Number, 
+132184592 | Hard Drive Serial Number, 
+132184596 | Hard Drive Serial Number, 
+132184600 | Hard Drive Serial Number, 
+132184604 | Hard Drive Serial Number, 
+132184608 | Hard Drive Serial Number, 
+132184612 | Hard Drive Serial Number, 
+132184616 | Hard Drive Serial Number, 
+132184620 | Hard Drive Serial Number, 
+132184624 | Hard Drive Serial Number, 
+132184628 | Hard Drive Serial Number, 
+132184632 | Hard Drive Serial Number, 
+132184636 | Hard Drive Serial Number, 
+132184640 | Hard Drive Serial Number, 
+132184644 | Hard Drive Serial Number, 
+132184648 | Hard Drive Serial Number, 
+132184652 | Hard Drive Serial Number, 
+132184656 | Hard Drive Serial Number, 
+132184660 | Hard Drive Serial Number, 
+132184664 | Hard Drive Serial Number, 
+132184668 | Hard Drive Serial Number, 
+132184672 | Hard Drive Serial Number, 
+132184676 | Hard Drive Serial Number, 
+132184680 | Hard Drive Serial Number, 
+132184684 | Hard Drive Serial Number, 
+132184688 | Hard Drive Serial Number, 
+132184692 | Hard Drive Serial Number, 
+132184696 | Hard Drive Serial Number, 
+132184700 | Hard Drive Serial Number, 
+132184704 | Hard Drive Serial Number, 
+132184708 | Hard Drive Serial Number, 
+132184712 | Hard Drive Serial Number, 
+132184716 | Hard Drive Serial Number, 
+132184720 | Hard Drive Serial Number, 
+132184724 | Hard Drive Serial Number, 
+132184728 | Hard Drive Serial Number, 
+132184732 | Hard Drive Serial Number, 
+132184736 | Hard Drive Serial Number, 
+132184740 | Hard Drive Serial Number, 
+132184744 | Hard Drive Serial Number, 
+132184748 | Hard Drive Serial Number, 
+132184752 | Hard Drive Serial Number, 
+132184756 | Hard Drive Serial Number, 
+132184760 | Hard Drive Serial Number, 
+132184764 | Hard Drive Serial Number, 
+132184768 | Hard Drive Serial Number, 
+132184772 | Hard Drive Serial Number, 
+132184776 | Hard Drive Serial Number, 
+132184780 | Hard Drive Serial Number, 
+132184784 | Hard Drive Serial Number, 
+132184788 | Hard Drive Serial Number, 
+132184792 | Hard Drive Serial Number, 
+132184796 | Hard Drive Serial Number, 
+132184800 | Hard Drive Serial Number, 
+132184804 | Hard Drive Serial Number, 
+132184808 | Hard Drive Serial Number, 
+132184812 | Hard Drive Serial Number, 
+Hex Buffer: 474554202F76312F6F705F6170703F6170703D666D6E676E63646E6961696764646D6E6B6D616F676D70646362626B636A636720485454502F312E310D0A43616368652D436F6E74726F6C3A206D61782D6167653D300D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A4163636570743A202A2F2A3B0D0A4163636570742D4C616E67756167653A207A682D434E2C7A683B713D302E382C656E3B713D302E360D0A557365722D4167656E743A204D6F7A696C6C612F352E30202857696E646F77733B20553B204D53494520362E303B2057696E646F7773204E5420352E313B205356313B202E4E455420434C5220322E302E35303732373B204249445542726F7773657220372E36290D0A486F73743A207765626170692E62722E62616964752E636F6D0D0A0D0A
+String Buffer: GET /v1/op_app?app=fmngncdniaigddmnkmaogmpdcbbkcjcg HTTP/1.1
+Cache-Control: max-age=0
+Connection: Keep-Alive
+Accept: */*;
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; BIDUBrowser 7.6)
+Host: webapi.br.baidu.com
+
+
+================================== 
+Hex Buffer: 0A60FF07000000002501000000000000
+String Buffer: 
+`Ã
+================================== 
+129724928 | Hard Drive Serial Number, 
+129724932 | Hard Drive Serial Number, 
+129724936 | Hard Drive Serial Number, 
+129724940 | Hard Drive Serial Number, 
+Hex Buffer: 00FF510700000000360010FF00030000
+String Buffer: 
+================================== 
+122810368 | Hard Drive Serial Number, 
+122810372 | Hard Drive Serial Number, 
+122810376 | Hard Drive Serial Number, 
+122810380 | Hard Drive Serial Number, 
+122810384 | Hard Drive Serial Number, 
+122810388 | Hard Drive Serial Number, 
+122810392 | Hard Drive Serial Number, 
+122810396 | Hard Drive Serial Number, 
+122810400 | Hard Drive Serial Number, 
+122810404 | Hard Drive Serial Number, 
+122810408 | Hard Drive Serial Number, 
+122810412 | Hard Drive Serial Number, 
+122810416 | Hard Drive Serial Number, 
+122810420 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3F00503D0627520AFF410C5011FFFF04100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0A30FF07000000007E00000000000000
+String Buffer: 
+0Ã
+================================== 
+129724944 | Hard Drive Serial Number, 
+129724948 | Hard Drive Serial Number, 
+129724952 | Hard Drive Serial Number, 
+129724956 | Hard Drive Serial Number, 
+Hex Buffer: 36FFFF07000000003600102A00030000
+String Buffer: 6…ˇ
+================================== 
+134203702 | Hard Drive Serial Number, 
+134203706 | Hard Drive Serial Number, 
+134203710 | Hard Drive Serial Number, 
+134203714 | Hard Drive Serial Number, 
+134203718 | Hard Drive Serial Number, 
+134203722 | Hard Drive Serial Number, 
+134203726 | Hard Drive Serial Number, 
+134203730 | Hard Drive Serial Number, 
+134203734 | Hard Drive Serial Number, 
+134203738 | Hard Drive Serial Number, 
+134203742 | Hard Drive Serial Number, 
+134203746 | Hard Drive Serial Number, 
+134203750 | Hard Drive Serial Number, 
+134203754 | Hard Drive Serial Number, 
+Hex Buffer: 52550A00020252540012345608004500021C5EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FF540AFF724D5018FF59067A0000
+String Buffer: RU
+
+================================== 
+129724960 | Hard Drive Serial Number, 
+129724964 | Hard Drive Serial Number, 
+129724968 | Hard Drive Serial Number, 
+129724972 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF0700000000FF0110FF00030000
+String Buffer: ¿˘‡
+================================== 
+132184512 | Hard Drive Serial Number, 
+132184516 | Hard Drive Serial Number, 
+132184520 | Hard Drive Serial Number, 
+132184524 | Hard Drive Serial Number, 
+132184528 | Hard Drive Serial Number, 
+132184532 | Hard Drive Serial Number, 
+132184536 | Hard Drive Serial Number, 
+132184540 | Hard Drive Serial Number, 
+132184544 | Hard Drive Serial Number, 
+132184548 | Hard Drive Serial Number, 
+132184552 | Hard Drive Serial Number, 
+132184556 | Hard Drive Serial Number, 
+132184560 | Hard Drive Serial Number, 
+132184564 | Hard Drive Serial Number, 
+132184568 | Hard Drive Serial Number, 
+132184572 | Hard Drive Serial Number, 
+132184576 | Hard Drive Serial Number, 
+132184580 | Hard Drive Serial Number, 
+132184584 | Hard Drive Serial Number, 
+132184588 | Hard Drive Serial Number, 
+132184592 | Hard Drive Serial Number, 
+132184596 | Hard Drive Serial Number, 
+132184600 | Hard Drive Serial Number, 
+132184604 | Hard Drive Serial Number, 
+132184608 | Hard Drive Serial Number, 
+132184612 | Hard Drive Serial Number, 
+132184616 | Hard Drive Serial Number, 
+132184620 | Hard Drive Serial Number, 
+132184624 | Hard Drive Serial Number, 
+132184628 | Hard Drive Serial Number, 
+132184632 | Hard Drive Serial Number, 
+132184636 | Hard Drive Serial Number, 
+132184640 | Hard Drive Serial Number, 
+132184644 | Hard Drive Serial Number, 
+132184648 | Hard Drive Serial Number, 
+132184652 | Hard Drive Serial Number, 
+132184656 | Hard Drive Serial Number, 
+132184660 | Hard Drive Serial Number, 
+132184664 | Hard Drive Serial Number, 
+132184668 | Hard Drive Serial Number, 
+132184672 | Hard Drive Serial Number, 
+132184676 | Hard Drive Serial Number, 
+132184680 | Hard Drive Serial Number, 
+132184684 | Hard Drive Serial Number, 
+132184688 | Hard Drive Serial Number, 
+132184692 | Hard Drive Serial Number, 
+132184696 | Hard Drive Serial Number, 
+132184700 | Hard Drive Serial Number, 
+132184704 | Hard Drive Serial Number, 
+132184708 | Hard Drive Serial Number, 
+132184712 | Hard Drive Serial Number, 
+132184716 | Hard Drive Serial Number, 
+132184720 | Hard Drive Serial Number, 
+132184724 | Hard Drive Serial Number, 
+132184728 | Hard Drive Serial Number, 
+132184732 | Hard Drive Serial Number, 
+132184736 | Hard Drive Serial Number, 
+132184740 | Hard Drive Serial Number, 
+132184744 | Hard Drive Serial Number, 
+132184748 | Hard Drive Serial Number, 
+132184752 | Hard Drive Serial Number, 
+132184756 | Hard Drive Serial Number, 
+132184760 | Hard Drive Serial Number, 
+132184764 | Hard Drive Serial Number, 
+132184768 | Hard Drive Serial Number, 
+132184772 | Hard Drive Serial Number, 
+132184776 | Hard Drive Serial Number, 
+132184780 | Hard Drive Serial Number, 
+132184784 | Hard Drive Serial Number, 
+132184788 | Hard Drive Serial Number, 
+132184792 | Hard Drive Serial Number, 
+132184796 | Hard Drive Serial Number, 
+132184800 | Hard Drive Serial Number, 
+132184804 | Hard Drive Serial Number, 
+132184808 | Hard Drive Serial Number, 
+132184812 | Hard Drive Serial Number, 
+132184816 | Hard Drive Serial Number, 
+132184820 | Hard Drive Serial Number, 
+132184824 | Hard Drive Serial Number, 
+132184828 | Hard Drive Serial Number, 
+132184832 | Hard Drive Serial Number, 
+132184836 | Hard Drive Serial Number, 
+132184840 | Hard Drive Serial Number, 
+132184844 | Hard Drive Serial Number, 
+132184848 | Hard Drive Serial Number, 
+132184852 | Hard Drive Serial Number, 
+132184856 | Hard Drive Serial Number, 
+132184860 | Hard Drive Serial Number, 
+132184864 | Hard Drive Serial Number, 
+132184868 | Hard Drive Serial Number, 
+132184872 | Hard Drive Serial Number, 
+132184876 | Hard Drive Serial Number, 
+132184880 | Hard Drive Serial Number, 
+132184884 | Hard Drive Serial Number, 
+132184888 | Hard Drive Serial Number, 
+132184892 | Hard Drive Serial Number, 
+132184896 | Hard Drive Serial Number, 
+132184900 | Hard Drive Serial Number, 
+132184904 | Hard Drive Serial Number, 
+132184908 | Hard Drive Serial Number, 
+132184912 | Hard Drive Serial Number, 
+132184916 | MAC, Hard Drive Serial Number, 
+132184920 | MAC, Hard Drive Serial Number, 
+132184924 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184928 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184932 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184936 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184940 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184944 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184948 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184952 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184956 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184960 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184964 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184968 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184972 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184976 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184980 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184984 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184988 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184992 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184996 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185000 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185004 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185008 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+Hex Buffer: 504F5354202F20485454502F312E310D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A436F6E74656E742D4C656E6774683A203333390D0A436F6E74656E742D547970653A206170706C69636174696F6E2F6F637465742D73747265616D0D0A486F73743A2064722E62722E62616964752E636F6D0D0A4B6565702D416C6976653A2074696D656F75743D3630302C6D61783D313030300D0A0D0A0000004F00000804100118212220663330333865306435616362366338323935616464353439356162636331336228FFFFFFFFFFFFFFFF07320038FF0140004806500158FFFFFF056020FF05083131303030303032000000FF02121044FFFFFFFFFF67FFFFFFFF32FF36FF6B36FFFFFF7723FF1532FFFF2B671EFFFFFF5907321FFF08FFFFFF3D2D6C3D13126037FFFF61FF332B370B334549FFFF21FFFF2DFFFF475A65FF6F77FFFFFF7FFF58FFFF7DFF43FFFF0A3DFFFF794FFF21FFFF287BFF41FF11FFFFFFFF41FF304BFF18FFFF05FFFFFF48FF1A70FFFF44FFFF10FFFFFFFFFF5FFFFF151A01FF1EFFFFFFFF3733FFFFFF0CFFFF643A500D552920FFFF03FFFFFFFFFF26556657FFFFFF3B6EFF0A5BFFFFFF3166FF3A5261241DFFFF7E1761FFFF412274544C79FF3D35FF51FFFFFFFF63FF6FFFFFFF34216FFF2BFFFFFF3B36FF1DFF30751DFF5F2BFFFFFF531B160F
+String Buffer: POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Length: 339
+Content-Type: application/octet-stream
+Host: dr.br.baidu.com
+Keep-Alive: timeout=600,max=1000
+
+
+================================== 
+Hex Buffer: 0AFFFF07000000004000000000000000
+String Buffer: 
+À
+================================== 
+129724976 | Hard Drive Serial Number, 
+129724980 | Hard Drive Serial Number, 
+129724984 | Hard Drive Serial Number, 
+129724988 | Hard Drive Serial Number, 
+Hex Buffer: 36FFFF07000000003600102A00030000
+String Buffer: 6…ˇ
+================================== 
+134203702 | Hard Drive Serial Number, 
+134203706 | Hard Drive Serial Number, 
+134203710 | Hard Drive Serial Number, 
+134203714 | Hard Drive Serial Number, 
+134203718 | Hard Drive Serial Number, 
+134203722 | Hard Drive Serial Number, 
+134203726 | Hard Drive Serial Number, 
+134203730 | Hard Drive Serial Number, 
+134203734 | Hard Drive Serial Number, 
+134203738 | Hard Drive Serial Number, 
+134203742 | Hard Drive Serial Number, 
+134203746 | Hard Drive Serial Number, 
+134203750 | Hard Drive Serial Number, 
+134203754 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450001575EFF4000FF0600000A00020F767BFF30FF4D00504475FFFF0B0356025018FFFF56040000
+String Buffer: RU
+
+================================== 
+129724992 | Hard Drive Serial Number, 
+129724996 | Hard Drive Serial Number, 
+129725000 | Hard Drive Serial Number, 
+129725004 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF07000000002F0110FF00030000
+String Buffer: ¿˘‡
+================================== 
+132184512 | Hard Drive Serial Number, 
+132184516 | Hard Drive Serial Number, 
+132184520 | Hard Drive Serial Number, 
+132184524 | Hard Drive Serial Number, 
+132184528 | Hard Drive Serial Number, 
+132184532 | Hard Drive Serial Number, 
+132184536 | Hard Drive Serial Number, 
+132184540 | Hard Drive Serial Number, 
+132184544 | Hard Drive Serial Number, 
+132184548 | Hard Drive Serial Number, 
+132184552 | Hard Drive Serial Number, 
+132184556 | Hard Drive Serial Number, 
+132184560 | Hard Drive Serial Number, 
+132184564 | Hard Drive Serial Number, 
+132184568 | Hard Drive Serial Number, 
+132184572 | Hard Drive Serial Number, 
+132184576 | Hard Drive Serial Number, 
+132184580 | Hard Drive Serial Number, 
+132184584 | Hard Drive Serial Number, 
+132184588 | Hard Drive Serial Number, 
+132184592 | Hard Drive Serial Number, 
+132184596 | Hard Drive Serial Number, 
+132184600 | Hard Drive Serial Number, 
+132184604 | Hard Drive Serial Number, 
+132184608 | Hard Drive Serial Number, 
+132184612 | Hard Drive Serial Number, 
+132184616 | Hard Drive Serial Number, 
+132184620 | Hard Drive Serial Number, 
+132184624 | Hard Drive Serial Number, 
+132184628 | Hard Drive Serial Number, 
+132184632 | Hard Drive Serial Number, 
+132184636 | Hard Drive Serial Number, 
+132184640 | Hard Drive Serial Number, 
+132184644 | Hard Drive Serial Number, 
+132184648 | Hard Drive Serial Number, 
+132184652 | Hard Drive Serial Number, 
+132184656 | Hard Drive Serial Number, 
+132184660 | Hard Drive Serial Number, 
+132184664 | Hard Drive Serial Number, 
+132184668 | Hard Drive Serial Number, 
+132184672 | Hard Drive Serial Number, 
+132184676 | Hard Drive Serial Number, 
+132184680 | Hard Drive Serial Number, 
+132184684 | Hard Drive Serial Number, 
+132184688 | Hard Drive Serial Number, 
+132184692 | Hard Drive Serial Number, 
+132184696 | Hard Drive Serial Number, 
+132184700 | Hard Drive Serial Number, 
+132184704 | Hard Drive Serial Number, 
+132184708 | Hard Drive Serial Number, 
+132184712 | Hard Drive Serial Number, 
+132184716 | Hard Drive Serial Number, 
+132184720 | Hard Drive Serial Number, 
+132184724 | Hard Drive Serial Number, 
+132184728 | Hard Drive Serial Number, 
+132184732 | Hard Drive Serial Number, 
+132184736 | Hard Drive Serial Number, 
+132184740 | Hard Drive Serial Number, 
+132184744 | Hard Drive Serial Number, 
+132184748 | Hard Drive Serial Number, 
+132184752 | Hard Drive Serial Number, 
+132184756 | Hard Drive Serial Number, 
+132184760 | Hard Drive Serial Number, 
+132184764 | Hard Drive Serial Number, 
+132184768 | Hard Drive Serial Number, 
+132184772 | Hard Drive Serial Number, 
+132184776 | Hard Drive Serial Number, 
+132184780 | Hard Drive Serial Number, 
+132184784 | Hard Drive Serial Number, 
+132184788 | Hard Drive Serial Number, 
+132184792 | Hard Drive Serial Number, 
+132184796 | Hard Drive Serial Number, 
+132184800 | Hard Drive Serial Number, 
+132184804 | Hard Drive Serial Number, 
+132184808 | Hard Drive Serial Number, 
+132184812 | Hard Drive Serial Number, 
+Hex Buffer: 474554202F76312F6F705F6170703F6170703D6A67656364637063626C6A63696A6A6763656F6E6D706A6F706A6D65656C667020485454502F312E310D0A43616368652D436F6E74726F6C3A206D61782D6167653D300D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A4163636570743A202A2F2A3B0D0A4163636570742D4C616E67756167653A207A682D434E2C7A683B713D302E382C656E3B713D302E360D0A557365722D4167656E743A204D6F7A696C6C612F352E30202857696E646F77733B20553B204D53494520362E303B2057696E646F7773204E5420352E313B205356313B202E4E455420434C5220322E302E35303732373B204249445542726F7773657220372E36290D0A486F73743A207765626170692E62722E62616964752E636F6D0D0A0D0A
+String Buffer: GET /v1/op_app?app=jgecdcpcbljcijjgceonmpjopjmeelfp HTTP/1.1
+Cache-Control: max-age=0
+Connection: Keep-Alive
+Accept: */*;
+Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
+User-Agent: Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; BIDUBrowser 7.6)
+Host: webapi.br.baidu.com
+
+
+================================== 
+Hex Buffer: 0A60FF07000000002501000000000000
+String Buffer: 
+`…
+================================== 
+Hex Buffer: 0AFFFF07000000004000000000000000
+String Buffer: 
+Ä»
+================================== 
+129725008 | Hard Drive Serial Number, 
+129725012 | Hard Drive Serial Number, 
+129725016 | Hard Drive Serial Number, 
+129725020 | Hard Drive Serial Number, 
+Hex Buffer: 0020520700000000360010FF00030000
+String Buffer: 
+================================== 
+122822656 | Hard Drive Serial Number, 
+122822660 | Hard Drive Serial Number, 
+122822664 | Hard Drive Serial Number, 
+122822668 | Hard Drive Serial Number, 
+122822672 | Hard Drive Serial Number, 
+122822676 | Hard Drive Serial Number, 
+122822680 | Hard Drive Serial Number, 
+122822684 | Hard Drive Serial Number, 
+122822688 | Hard Drive Serial Number, 
+122822692 | Hard Drive Serial Number, 
+122822696 | Hard Drive Serial Number, 
+122822700 | Hard Drive Serial Number, 
+122822704 | Hard Drive Serial Number, 
+122822708 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF3F00503D0627530AFF410D5010FFFF04100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0AFF6007000000004000000000000000
+String Buffer: 
+–`
+================================== 
+Hex Buffer: 0AFF600700000000FF00000000000000
+String Buffer: 
+`
+================================== 
+129725024 | Hard Drive Serial Number, 
+129725028 | Hard Drive Serial Number, 
+129725032 | Hard Drive Serial Number, 
+129725036 | Hard Drive Serial Number, 
+Hex Buffer: 36FFFF07000000003600102A00030000
+String Buffer: 6…ˇ
+================================== 
+134203702 | Hard Drive Serial Number, 
+134203706 | Hard Drive Serial Number, 
+134203710 | Hard Drive Serial Number, 
+134203714 | Hard Drive Serial Number, 
+134203718 | Hard Drive Serial Number, 
+134203722 | Hard Drive Serial Number, 
+134203726 | Hard Drive Serial Number, 
+134203730 | Hard Drive Serial Number, 
+134203734 | Hard Drive Serial Number, 
+134203738 | Hard Drive Serial Number, 
+134203742 | Hard Drive Serial Number, 
+134203746 | Hard Drive Serial Number, 
+134203750 | Hard Drive Serial Number, 
+134203754 | Hard Drive Serial Number, 
+Hex Buffer: 52550A00020252540012345608004500021C5EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FF480AFF73385018FF6E067A0000
+String Buffer: RU
+
+================================== 
+129725040 | Hard Drive Serial Number, 
+129725044 | Hard Drive Serial Number, 
+129725048 | Hard Drive Serial Number, 
+129725052 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF0700000000FF0110FF00030000
+String Buffer: ¿˘‡
+================================== 
+132184512 | Hard Drive Serial Number, 
+132184516 | Hard Drive Serial Number, 
+132184520 | Hard Drive Serial Number, 
+132184524 | Hard Drive Serial Number, 
+132184528 | Hard Drive Serial Number, 
+132184532 | Hard Drive Serial Number, 
+132184536 | Hard Drive Serial Number, 
+132184540 | Hard Drive Serial Number, 
+132184544 | Hard Drive Serial Number, 
+132184548 | Hard Drive Serial Number, 
+132184552 | Hard Drive Serial Number, 
+132184556 | Hard Drive Serial Number, 
+132184560 | Hard Drive Serial Number, 
+132184564 | Hard Drive Serial Number, 
+132184568 | Hard Drive Serial Number, 
+132184572 | Hard Drive Serial Number, 
+132184576 | Hard Drive Serial Number, 
+132184580 | Hard Drive Serial Number, 
+132184584 | Hard Drive Serial Number, 
+132184588 | Hard Drive Serial Number, 
+132184592 | Hard Drive Serial Number, 
+132184596 | Hard Drive Serial Number, 
+132184600 | Hard Drive Serial Number, 
+132184604 | Hard Drive Serial Number, 
+132184608 | Hard Drive Serial Number, 
+132184612 | Hard Drive Serial Number, 
+132184616 | Hard Drive Serial Number, 
+132184620 | Hard Drive Serial Number, 
+132184624 | Hard Drive Serial Number, 
+132184628 | Hard Drive Serial Number, 
+132184632 | Hard Drive Serial Number, 
+132184636 | Hard Drive Serial Number, 
+132184640 | Hard Drive Serial Number, 
+132184644 | Hard Drive Serial Number, 
+132184648 | Hard Drive Serial Number, 
+132184652 | Hard Drive Serial Number, 
+132184656 | Hard Drive Serial Number, 
+132184660 | Hard Drive Serial Number, 
+132184664 | Hard Drive Serial Number, 
+132184668 | Hard Drive Serial Number, 
+132184672 | Hard Drive Serial Number, 
+132184676 | Hard Drive Serial Number, 
+132184680 | Hard Drive Serial Number, 
+132184684 | Hard Drive Serial Number, 
+132184688 | Hard Drive Serial Number, 
+132184692 | Hard Drive Serial Number, 
+132184696 | Hard Drive Serial Number, 
+132184700 | Hard Drive Serial Number, 
+132184704 | Hard Drive Serial Number, 
+132184708 | Hard Drive Serial Number, 
+132184712 | Hard Drive Serial Number, 
+132184716 | Hard Drive Serial Number, 
+132184720 | Hard Drive Serial Number, 
+132184724 | Hard Drive Serial Number, 
+132184728 | Hard Drive Serial Number, 
+132184732 | Hard Drive Serial Number, 
+132184736 | Hard Drive Serial Number, 
+132184740 | Hard Drive Serial Number, 
+132184744 | Hard Drive Serial Number, 
+132184748 | Hard Drive Serial Number, 
+132184752 | Hard Drive Serial Number, 
+132184756 | Hard Drive Serial Number, 
+132184760 | Hard Drive Serial Number, 
+132184764 | Hard Drive Serial Number, 
+132184768 | Hard Drive Serial Number, 
+132184772 | Hard Drive Serial Number, 
+132184776 | Hard Drive Serial Number, 
+132184780 | Hard Drive Serial Number, 
+132184784 | Hard Drive Serial Number, 
+132184788 | Hard Drive Serial Number, 
+132184792 | Hard Drive Serial Number, 
+132184796 | Hard Drive Serial Number, 
+132184800 | Hard Drive Serial Number, 
+132184804 | Hard Drive Serial Number, 
+132184808 | Hard Drive Serial Number, 
+132184812 | Hard Drive Serial Number, 
+132184816 | Hard Drive Serial Number, 
+132184820 | Hard Drive Serial Number, 
+132184824 | Hard Drive Serial Number, 
+132184828 | Hard Drive Serial Number, 
+132184832 | Hard Drive Serial Number, 
+132184836 | Hard Drive Serial Number, 
+132184840 | Hard Drive Serial Number, 
+132184844 | Hard Drive Serial Number, 
+132184848 | Hard Drive Serial Number, 
+132184852 | Hard Drive Serial Number, 
+132184856 | Hard Drive Serial Number, 
+132184860 | Hard Drive Serial Number, 
+132184864 | Hard Drive Serial Number, 
+132184868 | Hard Drive Serial Number, 
+132184872 | Hard Drive Serial Number, 
+132184876 | Hard Drive Serial Number, 
+132184880 | Hard Drive Serial Number, 
+132184884 | Hard Drive Serial Number, 
+132184888 | Hard Drive Serial Number, 
+132184892 | Hard Drive Serial Number, 
+132184896 | Hard Drive Serial Number, 
+132184900 | Hard Drive Serial Number, 
+132184904 | Hard Drive Serial Number, 
+132184908 | Hard Drive Serial Number, 
+132184912 | Hard Drive Serial Number, 
+132184916 | MAC, Hard Drive Serial Number, 
+132184920 | MAC, Hard Drive Serial Number, 
+132184924 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184928 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184932 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184936 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184940 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184944 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184948 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184952 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184956 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184960 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184964 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184968 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184972 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184976 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184980 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184984 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184988 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184992 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184996 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185000 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185004 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132185008 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+Hex Buffer: 504F5354202F20485454502F312E310D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A436F6E74656E742D4C656E6774683A203333390D0A436F6E74656E742D547970653A206170706C69636174696F6E2F6F637465742D73747265616D0D0A486F73743A2064722E62722E62616964752E636F6D0D0A4B6565702D416C6976653A2074696D656F75743D3630302C6D61783D313030300D0A0D0A0000004F00000804100118222220663330333865306435616362366338323935616464353439356162636331336228FFFFFFFFFFFFFFFF07320038FF0140004806500158FFFFFF056020FF05083131303030303032000000FF021213FF673AFF166902FF5CFFFF77FF10FF5458FFFFFFFFFFFF48FFFFFF000E2B6C0BFFFFFFFFFF65FF74217EFFFF5A42FFFF1C53FF41FF3CFF0528FF5E7A10FFFF5B22FF553BFFFFFFFF74150F0920750041FFFFFF3D5E4FFF41FFFFFFFFFF6EFF6CFF247B1D6B6648FF1EFFFF0201FF7AFF3304FFFFFF6EFFFFFFFFFF255FFFFF3B6A1B1EFF1D543EFF6712FF18FFFFFFFF77FFFF3530FF4123592BFFFF22FF3C635D7EFF323F56FFFF7AFFFF49FFFFFFFFFFFFFFFF2DFF33FFFFFF68FFFFFF12FFFF22FF5CFF5F76FF696D542D155104127FFF7100FF1BFFFF2608024872FFFF32FFFF6957FFFFFFFF1FFFFF02FF58FF0BFF0CFF485B4502
+String Buffer: POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Length: 339
+Content-Type: application/octet-stream
+Host: dr.br.baidu.com
+Keep-Alive: timeout=600,max=1000
+
+
+================================== 
+Hex Buffer: 0A206107000000004000000000000000
+String Buffer: 
+ a
+================================== 
+129725056 | Hard Drive Serial Number, 
+129725060 | Hard Drive Serial Number, 
+129725064 | Hard Drive Serial Number, 
+129725068 | Hard Drive Serial Number, 
+Hex Buffer: 0040520700000000360010FF00030000
+String Buffer: 
+================================== 
+122830848 | Hard Drive Serial Number, 
+122830852 | Hard Drive Serial Number, 
+122830856 | Hard Drive Serial Number, 
+122830860 | Hard Drive Serial Number, 
+122830864 | Hard Drive Serial Number, 
+122830868 | Hard Drive Serial Number, 
+122830872 | Hard Drive Serial Number, 
+122830876 | Hard Drive Serial Number, 
+122830880 | Hard Drive Serial Number, 
+122830884 | Hard Drive Serial Number, 
+122830888 | Hard Drive Serial Number, 
+122830892 | Hard Drive Serial Number, 
+122830896 | Hard Drive Serial Number, 
+122830900 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F767BFF30FF4E0050FFFFFF340B025DFF5010FF6654FF0000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0A406107000000004000000000000000
+String Buffer: 
+@a
+================================== 
+Hex Buffer: 0A606107000000007605000000000000
+String Buffer: 
+`a
+================================== 
+129725072 | Hard Drive Serial Number, 
+129725076 | Hard Drive Serial Number, 
+129725080 | Hard Drive Serial Number, 
+129725084 | Hard Drive Serial Number, 
+Hex Buffer: 0050520700000000360010FF00030000
+String Buffer: 
+================================== 
+122834944 | Hard Drive Serial Number, 
+122834948 | Hard Drive Serial Number, 
+122834952 | Hard Drive Serial Number, 
+122834956 | Hard Drive Serial Number, 
+122834960 | Hard Drive Serial Number, 
+122834964 | Hard Drive Serial Number, 
+122834968 | Hard Drive Serial Number, 
+122834972 | Hard Drive Serial Number, 
+122834976 | Hard Drive Serial Number, 
+122834980 | Hard Drive Serial Number, 
+122834984 | Hard Drive Serial Number, 
+122834988 | Hard Drive Serial Number, 
+122834992 | Hard Drive Serial Number, 
+122834996 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F767BFF30FF4D00504475FF2E0B0357FF5010FF6554FF0000
+String Buffer: RU
+
+================================== 
+129725088 | Hard Drive Serial Number, 
+129725092 | Hard Drive Serial Number, 
+129725096 | Hard Drive Serial Number, 
+129725100 | Hard Drive Serial Number, 
+Hex Buffer: 0060520700000000360010FF00030000
+String Buffer: 
+================================== 
+122839040 | Hard Drive Serial Number, 
+122839044 | Hard Drive Serial Number, 
+122839048 | Hard Drive Serial Number, 
+122839052 | Hard Drive Serial Number, 
+122839056 | Hard Drive Serial Number, 
+122839060 | Hard Drive Serial Number, 
+122839064 | Hard Drive Serial Number, 
+122839068 | Hard Drive Serial Number, 
+122839072 | Hard Drive Serial Number, 
+122839076 | Hard Drive Serial Number, 
+122839080 | Hard Drive Serial Number, 
+122839084 | Hard Drive Serial Number, 
+122839088 | Hard Drive Serial Number, 
+122839092 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FF3C0AFF74235010FFFF04FF0000
+String Buffer: RU
+
+================================== 
+129725104 | Hard Drive Serial Number, 
+129725108 | Hard Drive Serial Number, 
+129725112 | Hard Drive Serial Number, 
+129725116 | Hard Drive Serial Number, 
+Hex Buffer: 0070520700000000360010FF00030000
+String Buffer: 
+================================== 
+122843136 | Hard Drive Serial Number, 
+122843140 | Hard Drive Serial Number, 
+122843144 | Hard Drive Serial Number, 
+122843148 | Hard Drive Serial Number, 
+122843152 | Hard Drive Serial Number, 
+122843156 | Hard Drive Serial Number, 
+122843160 | Hard Drive Serial Number, 
+122843164 | Hard Drive Serial Number, 
+122843168 | Hard Drive Serial Number, 
+122843172 | Hard Drive Serial Number, 
+122843176 | Hard Drive Serial Number, 
+122843180 | Hard Drive Serial Number, 
+122843184 | Hard Drive Serial Number, 
+122843188 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF4000507AFF4AFF0AFF2F0C5011FFFF04100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0AFF610700000000FF05000000000000
+String Buffer: 
+Äa
+================================== 
+129725120 | Hard Drive Serial Number, 
+129725124 | Hard Drive Serial Number, 
+129725128 | Hard Drive Serial Number, 
+129725132 | Hard Drive Serial Number, 
+Hex Buffer: 36FFFF07000000003600102A00030000
+String Buffer: 6…ˇ
+================================== 
+134203702 | Hard Drive Serial Number, 
+134203706 | Hard Drive Serial Number, 
+134203710 | Hard Drive Serial Number, 
+134203714 | Hard Drive Serial Number, 
+134203718 | Hard Drive Serial Number, 
+134203722 | Hard Drive Serial Number, 
+134203726 | Hard Drive Serial Number, 
+134203730 | Hard Drive Serial Number, 
+134203734 | Hard Drive Serial Number, 
+134203738 | Hard Drive Serial Number, 
+134203742 | Hard Drive Serial Number, 
+134203746 | Hard Drive Serial Number, 
+134203750 | Hard Drive Serial Number, 
+134203754 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450001FF5EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FF3C0AFF74235018FFFF06420000
+String Buffer: RU
+
+================================== 
+129725136 | Hard Drive Serial Number, 
+129725140 | Hard Drive Serial Number, 
+129725144 | Hard Drive Serial Number, 
+129725148 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF0700000000FF0110FF00030000
+String Buffer: ¿˘‡
+================================== 
+132184512 | Hard Drive Serial Number, 
+132184516 | Hard Drive Serial Number, 
+132184520 | Hard Drive Serial Number, 
+132184524 | Hard Drive Serial Number, 
+132184528 | Hard Drive Serial Number, 
+132184532 | Hard Drive Serial Number, 
+132184536 | Hard Drive Serial Number, 
+132184540 | Hard Drive Serial Number, 
+132184544 | Hard Drive Serial Number, 
+132184548 | Hard Drive Serial Number, 
+132184552 | Hard Drive Serial Number, 
+132184556 | Hard Drive Serial Number, 
+132184560 | Hard Drive Serial Number, 
+132184564 | Hard Drive Serial Number, 
+132184568 | Hard Drive Serial Number, 
+132184572 | Hard Drive Serial Number, 
+132184576 | Hard Drive Serial Number, 
+132184580 | Hard Drive Serial Number, 
+132184584 | Hard Drive Serial Number, 
+132184588 | Hard Drive Serial Number, 
+132184592 | Hard Drive Serial Number, 
+132184596 | Hard Drive Serial Number, 
+132184600 | Hard Drive Serial Number, 
+132184604 | Hard Drive Serial Number, 
+132184608 | Hard Drive Serial Number, 
+132184612 | Hard Drive Serial Number, 
+132184616 | Hard Drive Serial Number, 
+132184620 | Hard Drive Serial Number, 
+132184624 | Hard Drive Serial Number, 
+132184628 | Hard Drive Serial Number, 
+132184632 | Hard Drive Serial Number, 
+132184636 | Hard Drive Serial Number, 
+132184640 | Hard Drive Serial Number, 
+132184644 | Hard Drive Serial Number, 
+132184648 | Hard Drive Serial Number, 
+132184652 | Hard Drive Serial Number, 
+132184656 | Hard Drive Serial Number, 
+132184660 | Hard Drive Serial Number, 
+132184664 | Hard Drive Serial Number, 
+132184668 | Hard Drive Serial Number, 
+132184672 | Hard Drive Serial Number, 
+132184676 | Hard Drive Serial Number, 
+132184680 | Hard Drive Serial Number, 
+132184684 | Hard Drive Serial Number, 
+132184688 | Hard Drive Serial Number, 
+132184692 | Hard Drive Serial Number, 
+132184696 | Hard Drive Serial Number, 
+132184700 | Hard Drive Serial Number, 
+132184704 | Hard Drive Serial Number, 
+132184708 | Hard Drive Serial Number, 
+132184712 | Hard Drive Serial Number, 
+132184716 | Hard Drive Serial Number, 
+132184720 | Hard Drive Serial Number, 
+132184724 | Hard Drive Serial Number, 
+132184728 | Hard Drive Serial Number, 
+132184732 | Hard Drive Serial Number, 
+132184736 | Hard Drive Serial Number, 
+132184740 | Hard Drive Serial Number, 
+132184744 | Hard Drive Serial Number, 
+132184748 | Hard Drive Serial Number, 
+132184752 | Hard Drive Serial Number, 
+132184756 | Hard Drive Serial Number, 
+132184760 | Hard Drive Serial Number, 
+132184764 | Hard Drive Serial Number, 
+132184768 | Hard Drive Serial Number, 
+132184772 | Hard Drive Serial Number, 
+132184776 | Hard Drive Serial Number, 
+132184780 | Hard Drive Serial Number, 
+132184784 | Hard Drive Serial Number, 
+132184788 | Hard Drive Serial Number, 
+132184792 | Hard Drive Serial Number, 
+132184796 | Hard Drive Serial Number, 
+132184800 | Hard Drive Serial Number, 
+132184804 | Hard Drive Serial Number, 
+132184808 | Hard Drive Serial Number, 
+132184812 | Hard Drive Serial Number, 
+132184816 | Hard Drive Serial Number, 
+132184820 | Hard Drive Serial Number, 
+132184824 | Hard Drive Serial Number, 
+132184828 | Hard Drive Serial Number, 
+132184832 | Hard Drive Serial Number, 
+132184836 | Hard Drive Serial Number, 
+132184840 | Hard Drive Serial Number, 
+132184844 | Hard Drive Serial Number, 
+132184848 | Hard Drive Serial Number, 
+132184852 | Hard Drive Serial Number, 
+132184856 | Hard Drive Serial Number, 
+132184860 | MAC, Hard Drive Serial Number, 
+132184864 | MAC, Hard Drive Serial Number, 
+132184868 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184872 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184876 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184880 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184884 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184888 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184892 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184896 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184900 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184904 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184908 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184912 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184916 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184920 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184924 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184928 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184932 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184936 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184940 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184944 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184948 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184952 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+Hex Buffer: 504F5354202F20485454502F312E310D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A436F6E74656E742D4C656E6774683A203238330D0A436F6E74656E742D547970653A206170706C69636174696F6E2F6F637465742D73747265616D0D0A486F73743A2064722E62722E62616964752E636F6D0D0A4B6565702D416C6976653A2074696D656F75743D3630302C6D61783D313030300D0A0D0A0000004F00000804100118232220663330333865306435616362366338323935616464353439356162636331336228FFFFFFFFFFFFFFFF07320038FF0140004806500158FFFFFF056020FF05083131303030303032000000FF020426FFFF65FF1D2EFF7207FF493AFF043332FFFF0C7D16FF4256FFFF4C5852FF100AFFFF607F78FFFFFF0EFFFFFFFF5CFF7E60FFFF5270467901FFFFFFFF6818FF09FF0C21FF036070FFFF2AFFFF0532012EFFFFFFFF70FFFFFF28FFFFFF38FF08FF10FFFFFFFF3CFF5B4D77FF1A63FF0A290A0F45502503FF4D5418FFFF7A3D07FFFFFFFF2D3CFF26FF16064EFF3BFFFFFF20301A73FFFFFF15407E1E7DFF2BFFFFFF27063BFFFFFFFF13FF69FF227EFFFF6A2927036870FFFF1D70120FFFFF36
+String Buffer: POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Length: 283
+Content-Type: application/octet-stream
+Host: dr.br.baidu.com
+Keep-Alive: timeout=600,max=1000
+
+
+================================== 
+Hex Buffer: 0AFF6107000000007502000000000000
+String Buffer: 
+†a
+================================== 
+Hex Buffer: 0AFF6107000000004000000000000000
+String Buffer: 
+¿a
+================================== 
+129725152 | Hard Drive Serial Number, 
+129725156 | Hard Drive Serial Number, 
+129725160 | Hard Drive Serial Number, 
+129725164 | Hard Drive Serial Number, 
+Hex Buffer: 00FF520700000000360010FF00030000
+String Buffer: 
+================================== 
+122851328 | Hard Drive Serial Number, 
+122851332 | Hard Drive Serial Number, 
+122851336 | Hard Drive Serial Number, 
+122851340 | Hard Drive Serial Number, 
+122851344 | Hard Drive Serial Number, 
+122851348 | Hard Drive Serial Number, 
+122851352 | Hard Drive Serial Number, 
+122851356 | Hard Drive Serial Number, 
+122851360 | Hard Drive Serial Number, 
+122851364 | Hard Drive Serial Number, 
+122851368 | Hard Drive Serial Number, 
+122851372 | Hard Drive Serial Number, 
+122851376 | Hard Drive Serial Number, 
+122851380 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450000285EFF4000FF0600000A00020F3DFFFF5FFF4000507AFF4AFF0AFF2F0D5010FFFF04100000
+String Buffer: RU
+
+================================== 
+Hex Buffer: 0AFF6107000000004000000000000000
+String Buffer: 
+–a
+================================== 
+129725168 | Hard Drive Serial Number, 
+129725172 | Hard Drive Serial Number, 
+129725176 | Hard Drive Serial Number, 
+129725180 | Hard Drive Serial Number, 
+Hex Buffer: 36FFFF07000000003600102A00030000
+String Buffer: 6…ˇ
+================================== 
+134203702 | Hard Drive Serial Number, 
+134203706 | Hard Drive Serial Number, 
+134203710 | Hard Drive Serial Number, 
+134203714 | Hard Drive Serial Number, 
+134203718 | Hard Drive Serial Number, 
+134203722 | Hard Drive Serial Number, 
+134203726 | Hard Drive Serial Number, 
+134203730 | Hard Drive Serial Number, 
+134203734 | Hard Drive Serial Number, 
+134203738 | Hard Drive Serial Number, 
+134203742 | Hard Drive Serial Number, 
+134203746 | Hard Drive Serial Number, 
+134203750 | Hard Drive Serial Number, 
+134203754 | Hard Drive Serial Number, 
+Hex Buffer: 52550A0002025254001234560800450001FF5EFF4000FF0600000A00020F3DFFFFFFFF2D00506302FFFF0AFF750E5018FF0506320000
+String Buffer: RU
+
+================================== 
+129725184 | Hard Drive Serial Number, 
+129725188 | Hard Drive Serial Number, 
+129725192 | Hard Drive Serial Number, 
+129725196 | Hard Drive Serial Number, 
+Hex Buffer: FFFFFF0700000000FF0110FF00030000
+String Buffer: ¿˘‡
+================================== 
+132184512 | Hard Drive Serial Number, 
+132184516 | Hard Drive Serial Number, 
+132184520 | Hard Drive Serial Number, 
+132184524 | Hard Drive Serial Number, 
+132184528 | Hard Drive Serial Number, 
+132184532 | Hard Drive Serial Number, 
+132184536 | Hard Drive Serial Number, 
+132184540 | Hard Drive Serial Number, 
+132184544 | Hard Drive Serial Number, 
+132184548 | Hard Drive Serial Number, 
+132184552 | Hard Drive Serial Number, 
+132184556 | Hard Drive Serial Number, 
+132184560 | Hard Drive Serial Number, 
+132184564 | Hard Drive Serial Number, 
+132184568 | Hard Drive Serial Number, 
+132184572 | Hard Drive Serial Number, 
+132184576 | Hard Drive Serial Number, 
+132184580 | Hard Drive Serial Number, 
+132184584 | Hard Drive Serial Number, 
+132184588 | Hard Drive Serial Number, 
+132184592 | Hard Drive Serial Number, 
+132184596 | Hard Drive Serial Number, 
+132184600 | Hard Drive Serial Number, 
+132184604 | Hard Drive Serial Number, 
+132184608 | Hard Drive Serial Number, 
+132184612 | Hard Drive Serial Number, 
+132184616 | Hard Drive Serial Number, 
+132184620 | Hard Drive Serial Number, 
+132184624 | Hard Drive Serial Number, 
+132184628 | Hard Drive Serial Number, 
+132184632 | Hard Drive Serial Number, 
+132184636 | Hard Drive Serial Number, 
+132184640 | Hard Drive Serial Number, 
+132184644 | Hard Drive Serial Number, 
+132184648 | Hard Drive Serial Number, 
+132184652 | Hard Drive Serial Number, 
+132184656 | Hard Drive Serial Number, 
+132184660 | Hard Drive Serial Number, 
+132184664 | Hard Drive Serial Number, 
+132184668 | Hard Drive Serial Number, 
+132184672 | Hard Drive Serial Number, 
+132184676 | Hard Drive Serial Number, 
+132184680 | Hard Drive Serial Number, 
+132184684 | Hard Drive Serial Number, 
+132184688 | Hard Drive Serial Number, 
+132184692 | Hard Drive Serial Number, 
+132184696 | Hard Drive Serial Number, 
+132184700 | Hard Drive Serial Number, 
+132184704 | Hard Drive Serial Number, 
+132184708 | Hard Drive Serial Number, 
+132184712 | Hard Drive Serial Number, 
+132184716 | Hard Drive Serial Number, 
+132184720 | Hard Drive Serial Number, 
+132184724 | Hard Drive Serial Number, 
+132184728 | Hard Drive Serial Number, 
+132184732 | Hard Drive Serial Number, 
+132184736 | Hard Drive Serial Number, 
+132184740 | Hard Drive Serial Number, 
+132184744 | Hard Drive Serial Number, 
+132184748 | Hard Drive Serial Number, 
+132184752 | Hard Drive Serial Number, 
+132184756 | Hard Drive Serial Number, 
+132184760 | Hard Drive Serial Number, 
+132184764 | Hard Drive Serial Number, 
+132184768 | Hard Drive Serial Number, 
+132184772 | Hard Drive Serial Number, 
+132184776 | Hard Drive Serial Number, 
+132184780 | Hard Drive Serial Number, 
+132184784 | Hard Drive Serial Number, 
+132184788 | Hard Drive Serial Number, 
+132184792 | Hard Drive Serial Number, 
+132184796 | Hard Drive Serial Number, 
+132184800 | Hard Drive Serial Number, 
+132184804 | Hard Drive Serial Number, 
+132184808 | Hard Drive Serial Number, 
+132184812 | Hard Drive Serial Number, 
+132184816 | Hard Drive Serial Number, 
+132184820 | Hard Drive Serial Number, 
+132184824 | Hard Drive Serial Number, 
+132184828 | Hard Drive Serial Number, 
+132184832 | Hard Drive Serial Number, 
+132184836 | Hard Drive Serial Number, 
+132184840 | Hard Drive Serial Number, 
+132184844 | MAC, Hard Drive Serial Number, 
+132184848 | MAC, Hard Drive Serial Number, 
+132184852 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184856 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184860 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184864 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184868 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184872 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184876 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184880 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184884 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184888 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184892 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184896 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184900 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184904 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184908 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184912 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184916 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184920 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184924 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184928 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184932 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+132184936 | MAC, Volume Serial Number, Hard Drive Serial Number, 
+Hex Buffer: 504F5354202F20485454502F312E310D0A436F6E6E656374696F6E3A204B6565702D416C6976650D0A436F6E74656E742D4C656E6774683A203236370D0A436F6E74656E742D547970653A206170706C69636174696F6E2F6F637465742D73747265616D0D0A486F73743A2064722E62722E62616964752E636F6D0D0A4B6565702D416C6976653A2074696D656F75743D3630302C6D61783D313030300D0A0D0A0000004F00000804100118242220663330333865306435616362366338323935616464353439356162636331336228FFFFFFFFFFFFFFFF07320038FF0140004806500158FFFFFF056020FF05083131303030303032000000FF0204FF6D3D0E7CFFFF2B453BFF736F26FFFF2D79FFFFFFFFFF50FFFFFF444EFFFFFF1D70585B341F1FFF70FF10FFFF0DFF6075FFFF7B75FF086AFF45FFFF61226FFF646A14FFFFFFFF4CFFFF016F1EFF09FFFF43FFFFFFFFFFFF5CFF00400DFFFFFF29FF44FF60FF4CFF5404FF22FF6B3BFF4B16605863FF5DFF75FF17FFFFFF0CFFFFFF6BFF7B2207FF1E5655FF301AFFFFFFFF20FFFFFF5457FF15FFFFFFFFFFFF3EFF606852FFFF2DFF4650FFFFFFFFFF
+String Buffer: POST / HTTP/1.1
+Connection: Keep-Alive
+Content-Length: 267
+Content-Type: application/octet-stream
+Host: dr.br.baidu.com
+Keep-Alive: timeout=600,max=1000
+
+
+================================== 
+Hex Buffer: 0AFF6107000000003401000000000000
+String Buffer: 
+a
+================================== 
