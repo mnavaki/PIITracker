@@ -1,7 +1,7 @@
 ## PIITracker
 
-PIITracker tracks Personally Identifiable Information (PII) throughtout the system. 
-PIITracker utelizes the taint engine in `PANDA` e.g. taint2 plugin. PIITracker is based off PANDA commit 
+PIITracker tracks Personally Identifiable Information (PII) automatically throughtout the system based on whole-system dynamic information flow tracking. 
+PIITracker utelizes the taint engine in `PANDA` i.e. taint2 plugin, to track PII. PIITracker is based off PANDA commit 
 5606090f575a25e4de83af4e3c6a7f6f70050bf7.
 
 ## Install
