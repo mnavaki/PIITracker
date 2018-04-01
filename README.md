@@ -4,6 +4,8 @@ PIITracker tracks Personally Identifiable Information (PII) automatically throug
 PIITracker utelizes the taint engine in `PANDA` i.e. taint2 plugin, to track PII. PIITracker is based off PANDA commit 
 5606090f575a25e4de83af4e3c6a7f6f70050bf7.
 
+PIITracker supports Windows 7 32-bit.
+
 ## Install
 
 To install the PANDA component of PIITracker, install all the required libraries
